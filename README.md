@@ -1,6 +1,12 @@
 <p align="center">
 <a href="http://isrssdead.com" target="_blank"><img src="https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/screenshot-isrssdeaddotcom.png" alt="An image containing the text: 'You wanted to know: Is RSS dead? Lots of feeds. All popular blogging platforms support RSS. As do most news orgs. Lots of feed reading software. And lots of users. Podcasting is booming. It's open, no platform vendor, anyone can use it. So no, RSS is not dead.'. Followed by a green candy heart with the letters RSS impressed."></a><br>
-<small>Screenshot of isRSSdead.com</small>
+<small>Screenshot of isRSSdead.com</small><br>
+<a href="https://iheartrss.com/">
+  <picture>
+    <source srcset="https://iheartrss.com/iheartrss-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://iheartrss.com/iheartrss.svg" alt="I love RSS" width="176" height="62">
+  </picture>
+</a>
 </p>
 
 ***
@@ -8,9 +14,9 @@
 This is a list of [RSS](https://en.wikipedia.org/wiki/RSS) related stuff. Every single sentence in [isRSSdead.com](http://isrssdead.com) has been extended into exact apps, tools and services recorded in this list. Contents are mainly organized based on the posts in the Telegram Channel [@AboutRSS](https://t.me/s/aboutrss) (in Chinese).
 
 [![](https://img.shields.io/badge/dynamic/json?color=blue\&label=%40AboutRSS\&query=data.totalSubs\&suffix=%20subscribers\&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Daboutrss\&logo=telegram)](https://t.me/s/aboutrss) [![](https://img.shields.io/badge/%40AboutRSS-3k%2B%20followers-blue?style=flat\&logo=x)](https://twitter.com/aboutrss)[![Mastodon Follow](https://img.shields.io/mastodon/follow/112182603993100821?domain=https%3A%2F%2Fmastodon.social\&style=flat\&logo=mastodon\&color=blue)](https://mastodon.social/@AboutRSS)
-![GitHub Repo stars](https://img.shields.io/github/stars/aboutrss/all-about-rss?logo=GitHub) <a href="https://iheartrss.com/"><picture><source srcset="https://iheartrss.com/iheartrss-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://iheartrss.com/iheartrss.svg" alt="I love RSS" width="88" height="31"></picture></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/aboutrss/all-about-rss?logo=GitHub)
 
-Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849 | 🐛 105 | 📅 2026-09-02 and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/s/realSpencerWoo/63). But note that 「ALL about RSS」 is not an *Awesome list*. Any service/tool that functions well and is maintained well can be listed here.
+Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 527,499 | 🐛 105 | 📅 2026-09-02 and [@realSpencerWoo's archived Telegram Channel posts](https://t.me/s/realSpencerWoo/63). But note that 「ALL about RSS」 is not an *Awesome list*. Any service/tool that functions well and is maintained well can be listed here.
 
 ***
 
@@ -327,36 +333,36 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### Apps
 
-* [NetNewsWire](https://ranchero.com/netnewswire/) <sup>[206](https://t.me/s/aboutrss/206), [208](https://t.me/s/aboutrss/208), [231](https://t.me/s/aboutrss/231), [306](https://t.me/s/aboutrss/306), [432-434](https://t.me/s/aboutrss/432), [459![Video][Video icon]](https://t.me/s/aboutrss/459), [567](https://t.me/s/aboutrss/567), [608](https://t.me/s/aboutrss/608), [753](https://t.me/s/aboutrss/753), [820](https://t.me/s/aboutrss/820), [951](https://t.me/s/aboutrss/951)</sup> [![][iPhone icon]](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210)[![Mac][Mac icon]](https://github.com/Ranchero-Software/NetNewsWire/releases) ⭐ 10,489 | 🐛 648 | 🌐 Swift | 📅 2026-10-25[![Open-Source Software][oss icon]](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,489 | 🐛 648 | 🌐 Swift | 📅 2026-10-25![Freeware][freeware icon]
-* [Fluent Reader](https://hyliu.me/fluent-reader/) <sup>[676](https://t.me/s/aboutrss/676), [746](https://t.me/s/aboutrss/746)</sup> [![Mac][Mac icon]](https://github.com/yang991178/fluent-reader/releases) ⭐ 9,762 | 🐛 372 | 🌐 TypeScript | 📅 2026-10-29[![Windows][Windows icon]](https://www.microsoft.com/store/apps/9P71FC94LRH8)[![Open-Source Software][oss icon]](https://github.com/yang991178/fluent-reader/) ⭐ 9,762 | 🐛 372 | 🌐 TypeScript | 📅 2026-10-29
+* [NetNewsWire](https://ranchero.com/netnewswire/) <sup>[206](https://t.me/s/aboutrss/206), [208](https://t.me/s/aboutrss/208), [231](https://t.me/s/aboutrss/231), [306](https://t.me/s/aboutrss/306), [432-434](https://t.me/s/aboutrss/432), [459![Video][Video icon]](https://t.me/s/aboutrss/459), [567](https://t.me/s/aboutrss/567), [608](https://t.me/s/aboutrss/608), [753](https://t.me/s/aboutrss/753), [820](https://t.me/s/aboutrss/820), [951](https://t.me/s/aboutrss/951)</sup> [![][iPhone icon]](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210)[![Mac][Mac icon]](https://github.com/Ranchero-Software/NetNewsWire/releases) ⭐ 10,492 | 🐛 650 | 🌐 Swift | 📅 2026-10-25[![Open-Source Software][oss icon]](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,492 | 🐛 650 | 🌐 Swift | 📅 2026-10-25![Freeware][freeware icon]
+* [Fluent Reader](https://hyliu.me/fluent-reader/) <sup>[676](https://t.me/s/aboutrss/676), [746](https://t.me/s/aboutrss/746)</sup> [![Mac][Mac icon]](https://github.com/yang991178/fluent-reader/releases) ⭐ 9,768 | 🐛 372 | 🌐 TypeScript | 📅 2026-10-29[![Windows][Windows icon]](https://www.microsoft.com/store/apps/9P71FC94LRH8)[![Open-Source Software][oss icon]](https://github.com/yang991178/fluent-reader/) ⭐ 9,768 | 🐛 372 | 🌐 TypeScript | 📅 2026-10-29
   * [Fluent Reader Lite](https://github.com/yang991178/fluent-reader-lite) ⭐ 1,778 | 🐛 90 | 🌐 Dart | 📅 2026-10-22 <sup>[949](https://t.me/s/aboutrss/949)</sup> [![iOS][iPhone icon]](https://apps.apple.com/app/id1549611796)[![Android][Android icon]](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite)[![Open-Source Software][oss icon]](https://github.com/yang991178/fluent-reader-lite) ⭐ 1,778 | 🐛 90 | 🌐 Dart | 📅 2026-10-22
 * [Winds](https://getstream.io/winds/) <sup>[90](https://t.me/s/aboutrss/90)</sup> [![Online][Online icon]](https://winds.getstream.io/)![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/getstream/winds/) ⚠️ Archived
-* [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204), [1061](https://t.me/s/aboutrss/1061)</sup> [![Online][Online icon]](https://newsblur.com/)[![][iPhone icon]](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software][oss icon]](https://github.com/samuelclay/NewsBlur) ⭐ 7,674 | 🐛 142 | 🌐 HTML | 📅 2026-10-29
-* [Read You](https://github.com/Ashinch/ReadYou/) ⭐ 7,624 | 🐛 491 | 🌐 Kotlin | 📅 2026-08-11 <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software][oss icon]](https://github.com/Ashinch/ReadYou/) ⭐ 7,624 | 🐛 491 | 🌐 Kotlin | 📅 2026-08-11[![Android][Android icon]](https://t.me/ReadYouApp)![Freeware][freeware icon]
-* [Yarr](https://github.com/nkanaev/yarr) ⭐ 4,080 | 🐛 4 | 🌐 Go | 📅 2026-10-29 <sup>[822](https://t.me/s/aboutrss/822)</sup> ![Mac][Mac icon]![Windows][Windows icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/nkanaev/yarr) ⭐ 4,080 | 🐛 4 | 🌐 Go | 📅 2026-10-29![Freeware][freeware icon]
-* [Feedbin](https://feedbin.com/) <sup>[732](https://t.me/s/aboutrss/732)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software][oss icon]](https://github.com/feedbin/feedbin) ⭐ 3,782 | 🐛 182 | 🌐 Ruby | 📅 2026-10-28
+* [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204), [1061](https://t.me/s/aboutrss/1061)</sup> [![Online][Online icon]](https://newsblur.com/)[![][iPhone icon]](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software][oss icon]](https://github.com/samuelclay/NewsBlur) ⭐ 7,675 | 🐛 141 | 🌐 HTML | 📅 2026-10-30
+* [Read You](https://github.com/Ashinch/ReadYou/) ⭐ 7,629 | 🐛 490 | 🌐 Kotlin | 📅 2026-08-11 <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Open-Source Software][oss icon]](https://github.com/Ashinch/ReadYou/) ⭐ 7,629 | 🐛 490 | 🌐 Kotlin | 📅 2026-08-11[![Android][Android icon]](https://t.me/ReadYouApp)![Freeware][freeware icon]
+* [Yarr](https://github.com/nkanaev/yarr) ⭐ 4,082 | 🐛 4 | 🌐 Go | 📅 2026-10-30 <sup>[822](https://t.me/s/aboutrss/822)</sup> ![Mac][Mac icon]![Windows][Windows icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/nkanaev/yarr) ⭐ 4,082 | 🐛 4 | 🌐 Go | 📅 2026-10-30![Freeware][freeware icon]
+* [Feedbin](https://feedbin.com/) <sup>[732](https://t.me/s/aboutrss/732)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software][oss icon]](https://github.com/feedbin/feedbin) ⭐ 3,782 | 🐛 182 | 🌐 Ruby | 📅 2026-10-30
   * [The Unreader](https://apps.apple.com/app/the-unreader-a-feedbin-client/id1496863148) <sup>[394](https://t.me/s/aboutrss/394), [1151](https://t.me/s/aboutrss/1151)</sup> : a Feedbin Client [![][iPhone icon]](https://apps.apple.com/us/app/the-unreader-a-feedbin-client/id1496863148)
-* [RSS Guard](https://github.com/martinrotter/rssguard) ⭐ 2,817 | 🐛 86 | 🌐 C++ | 📅 2026-10-29 <sup>[574](https://t.me/s/aboutrss/574)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/martinrotter/rssguard) ⭐ 2,817 | 🐛 86 | 🌐 C++ | 📅 2026-10-29![Freeware][freeware icon]
+* [RSS Guard](https://github.com/martinrotter/rssguard) ⭐ 2,817 | 🐛 87 | 🌐 C++ | 📅 2026-10-30 <sup>[574](https://t.me/s/aboutrss/574)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/martinrotter/rssguard) ⭐ 2,817 | 🐛 87 | 🌐 C++ | 📅 2026-10-30![Freeware][freeware icon]
 * [Raven Reader](https://ravenreader.app/) <sup>[503](https://t.me/s/aboutrss/503), [924](https://t.me/s/aboutrss/924)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/hello-efficiency-inc/raven-reader) ⚠️ Archived
-* [Twine](https://github.com/msasikanth/twine) ⭐ 2,436 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-28 <sup>[1381](https://t.me/s/aboutrss/1381)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)[![iOS][iPhone icon]](https://apps.apple.com/app/twine-rss-reader/id6465694958)[![Open-Source Software][oss icon]](https://github.com/msasikanth/twine) ⭐ 2,436 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-28
+* [Twine](https://github.com/msasikanth/twine) ⭐ 2,436 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-30 <sup>[1381](https://t.me/s/aboutrss/1381)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader)[![iOS][iPhone icon]](https://apps.apple.com/app/twine-rss-reader/id6465694958)[![Open-Source Software][oss icon]](https://github.com/msasikanth/twine) ⭐ 2,436 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-30
 * [Vienna](https://www.vienna-rss.com/) <sup>[1069](https://t.me/s/aboutrss/1069)</sup> [![Mac][Mac icon]](https://github.com/ViennaRSS/vienna-rss/releases/latest) ⭐ 1,979 | 🐛 55 | 🌐 Objective-C | 📅 2026-10-25[![Open-Source Software][oss icon]](https://github.com/ViennaRSS)
 * [Fraidycat](https://fraidyc.at/) <sup>[415](https://t.me/s/aboutrss/415)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/fraidycat/hecfkgekabkkhiidlinmifelhdooeool)[![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/fraidycat/)![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/kickscondor/fraidycat) ⭐ 1,822 | 🐛 128 | 🌐 JavaScript | 📅 2024-02-07
 * [Lettura](https://github.com/zhanglun/lettura) ⭐ 1,810 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-11 <sup>[1262](https://t.me/s/aboutrss/1262)</sup> ![Mac][Mac icon][![Open-Source Software][oss icon]](https://github.com/zhanglun/lettura) ⭐ 1,810 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-11![Freeware][freeware icon]
-* [FeedFlow](https://www.feedflow.dev/) <sup>[1355](https://t.me/s/aboutrss/1355)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.prof18.feedflow)[![iOS][iPhone icon]](https://apps.apple.com/us/app/feedflow-rss-reader/id6447210518)[![Mac][Mac icon]](https://github.com/prof18/feed-flow/releases/) ⭐ 1,293 | 🐛 97 | 🌐 Kotlin | 📅 2026-10-29[![Open-Source Software][oss icon]](https://github.com/prof18/feed-flow/) ⭐ 1,293 | 🐛 97 | 🌐 Kotlin | 📅 2026-10-29![Freeware][freeware icon]
-* [QuiteRSS](https://quiterss.org/) <sup>[340](https://t.me/s/aboutrss/340), [535](https://t.me/s/aboutrss/535)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/QuiteRSS/quiterss) ⭐ 1,090 | 🐛 442 | 🌐 C++ | 📅 2022-09-07![Freeware][freeware icon]
+* [FeedFlow](https://www.feedflow.dev/) <sup>[1355](https://t.me/s/aboutrss/1355)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.prof18.feedflow)[![iOS][iPhone icon]](https://apps.apple.com/us/app/feedflow-rss-reader/id6447210518)[![Mac][Mac icon]](https://github.com/prof18/feed-flow/releases/) ⭐ 1,295 | 🐛 117 | 🌐 Kotlin | 📅 2026-10-30[![Open-Source Software][oss icon]](https://github.com/prof18/feed-flow/) ⭐ 1,295 | 🐛 117 | 🌐 Kotlin | 📅 2026-10-30![Freeware][freeware icon]
+* [QuiteRSS](https://quiterss.org/) <sup>[340](https://t.me/s/aboutrss/340), [535](https://t.me/s/aboutrss/535)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/QuiteRSS/quiterss) ⭐ 1,091 | 🐛 442 | 🌐 C++ | 📅 2022-09-07![Freeware][freeware icon]
 * [Flym](https://github.com/FredJul/Flym) ⚠️ Archived <sup>[981](https://t.me/s/aboutrss/981)</sup> [![Android][Android icon]](https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67)[![Open-Source Software][oss icon]](https://github.com/FredJul/Flym) ⚠️ Archived![Freeware][freeware icon]
-* [Liferea](https://lzone.de/liferea/) <sup>[340](https://t.me/s/aboutrss/340), [568](https://t.me/s/aboutrss/568)</sup> ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/lwindolf/liferea) ⭐ 925 | 🐛 62 | 🌐 C | 📅 2026-10-28![Freeware][freeware icon]
+* [Liferea](https://lzone.de/liferea/) <sup>[340](https://t.me/s/aboutrss/340), [568](https://t.me/s/aboutrss/568)</sup> ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/lwindolf/liferea) ⭐ 925 | 🐛 63 | 🌐 C | 📅 2026-10-30![Freeware][freeware icon]
 * [FeedReader](https://jangernert.github.io/FeedReader/) <sup>[251](https://t.me/s/aboutrss/251), [340](https://t.me/s/aboutrss/340)</sup> ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/jangernert/FeedReader/) ⚠️ Archived![Freeware][freeware icon]
-* [Readrops](https://github.com/readrops/Readrops) ⭐ 581 | 🐛 129 | 🌐 Kotlin | 📅 2025-07-20 <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software][oss icon]](https://github.com/readrops/Readrops) ⭐ 581 | 🐛 129 | 🌐 Kotlin | 📅 2025-07-20![Freeware][freeware icon]
+* [Readrops](https://github.com/readrops/Readrops) ⭐ 582 | 🐛 129 | 🌐 Kotlin | 📅 2025-07-20 <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.readrops.app)[![Open-Source Software][oss icon]](https://github.com/readrops/Readrops) ⭐ 582 | 🐛 129 | 🌐 Kotlin | 📅 2025-07-20![Freeware][freeware icon]
 * [MeRead](https://github.com/gvenusleo/meread) ⭐ 432 | 🐛 20 | 🌐 Dart | 📅 2024-09-27 <sup>[1314](https://t.me/s/aboutrss/1314)</sup> [![Android][Android icon]](https://github.com/gvenusleo/MeRead/releases) ⭐ 432 | 🐛 20 | 🌐 Dart | 📅 2024-09-27[![Open-Source Software][oss icon]](https://github.com/gvenusleo/meread) ⭐ 432 | 🐛 20 | 🌐 Dart | 📅 2024-09-27![Freeware][freeware icon]
 * [Sismics Reader](https://www.sismics.com/reader/#!/home) ![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Android][Android icon]](https://play.google.com/store/apps/details?id=com.sismics.reader)[![Open-Source Software][oss icon]](https://github.com/sismics/reader) ⭐ 409 | 🐛 30 | 🌐 Java | 📅 2023-12-17![Freeware][freeware icon]
 * [News](https://f-droid.org/packages/co.appreactor.news/) <sup>[1190](https://t.me/s/aboutrss/1190)</sup> [![Open-Source Software][oss icon]](https://github.com/bubelov/news) ⭐ 408 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-21[![Android][Android icon]](https://f-droid.org/packages/co.appreactor.news/)![Freeware][freeware icon]
 * [News+](http://noinnion.com/newsplus/) <sup>[161](https://t.me/s/aboutrss/161)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.noinnion.android.newsplus) [![Open-Source Software][oss icon]](https://github.com/noinnion/newsplus) ⭐ 364 | 🐛 43 | 🌐 Java | 📅 2019-03-15
-* [FeedMe](https://github.com/seazon/FeedMe/) ⭐ 352 | 🐛 65 | 📅 2026-10-25 <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+* [FeedMe](https://github.com/seazon/FeedMe/) ⭐ 352 | 🐛 62 | 📅 2026-10-30 <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 * [Dinosaur RSS](https://dinorss.org/) <sup>[927](https://t.me/s/aboutrss/927)</sup>![Mac][Mac icon]![Windows][Windows icon][![Open-Source Software][oss icon]](https://github.com/richshaw2015/dino-rss-electron) ⭐ 294 | 🐛 2 | 🌐 Svelte | 📅 2023-12-18![Freeware][freeware icon]
 * [Homura](https://github.com/Saul-Mirone/homura) ⚠️ Archived <sup>[866](https://t.me/s/aboutrss/866)</sup> ![Mac][Mac icon]![Windows][Windows icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/Saul-Mirone/homura) ⚠️ Archived![Freeware][freeware icon]
-* [Livemarks](https://github.com/nt1m/livemarks/) ⭐ 260 | 🐛 112 | 🌐 JavaScript | 📅 2026-10-16 <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software][oss icon]](https://github.com/nt1m/livemarks/) ⭐ 260 | 🐛 112 | 🌐 JavaScript | 📅 2026-10-16
-* [RSSOwlnix](https://github.com/Xyrio/RSSOwlnix) ⭐ 255 | 🐛 69 | 🌐 Java | 📅 2025-10-30 ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/Xyrio/RSSOwlnix) ⭐ 255 | 🐛 69 | 🌐 Java | 📅 2025-10-30![Freeware][freeware icon]
+* [Livemarks](https://github.com/nt1m/livemarks/) ⭐ 260 | 🐛 112 | 🌐 JavaScript | 📅 2026-10-30 <sup>[690](https://t.me/s/aboutrss/690)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/livemarks/)[![Open-Source Software][oss icon]](https://github.com/nt1m/livemarks/) ⭐ 260 | 🐛 112 | 🌐 JavaScript | 📅 2026-10-30
+* [RSSOwlnix](https://github.com/Xyrio/RSSOwlnix) ⭐ 255 | 🐛 70 | 🌐 Java | 📅 2025-10-30 ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/Xyrio/RSSOwlnix) ⭐ 255 | 🐛 70 | 🌐 Java | 📅 2025-10-30![Freeware][freeware icon]
 * [gReader](http://noinnion.com/greader/) <sup>[627](https://t.me/s/aboutrss/627), [958](https://t.me/s/aboutrss/958)</sup> [![Android][Android icon]](https://github.com/noinnion/greader/tree/master/apk) ⭐ 253 | 🐛 67 | 📅 2021-03-20[![Open-Source Software][oss icon]](https://github.com/noinnion/greader/) ⭐ 253 | 🐛 67 | 📅 2021-03-20
 * [Brief](https://github.com/brief-rss/brief) ⭐ 242 | 🐛 203 | 🌐 JavaScript | 📅 2026-05-21 <sup>[667](https://t.me/s/aboutrss/667)</sup> [![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/brief/)[![Open-Source Software][oss icon]](https://github.com/brief-rss/brief) ⭐ 242 | 🐛 203 | 🌐 JavaScript | 📅 2026-05-21![Freeware][freeware icon]
 * [baRSS](https://github.com/relikd/baRSS) ⭐ 158 | 🐛 3 | 🌐 Objective-C | 📅 2026-04-08 <sup>[799](https://t.me/s/aboutrss/799)</sup> [![Mac][Mac icon]](https://github.com/relikd/baRSS/releases) ⭐ 158 | 🐛 3 | 🌐 Objective-C | 📅 2026-04-08![Freeware][freeware icon]
@@ -364,7 +370,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 * [Smart RSS extension](https://github.com/SmartRSS/Smart-RSS) ⚠️ Archived <sup>[510](https://t.me/s/aboutrss/510)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/eggggihfcaabljfpjiiaohloefmgejic/)[![Firefox][Firefox icon]](https://addons.mozilla.org/firefox/addon/smart-rss-reader/)[![Open-Source Software][oss icon]](https://github.com/SmartRSS/Smart-RSS) ⚠️ Archived![Freeware][freeware icon]
 * [RSS Bandit](http://rssbandit.org/) <sup>[336](https://t.me/s/aboutrss/336)</sup> [![Windows][Windows icon]](https://www.microsoft.com/store/apps/9PKZQ89JRBCW)[![Open-Source Software][oss icon]](https://github.com/RssBandit/RssBandit) ⭐ 106 | 🐛 214 | 🌐 C# | 📅 2022-12-08![Freeware][freeware icon]
 * [NiceFeed](https://github.com/joshuacerdenia/NiceFeed) ⭐ 91 | 🐛 29 | 🌐 Kotlin | 📅 2022-05-31 <sup>[843](https://t.me/s/aboutrss/843)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.joshuacerdenia.android.nicefeed\&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)[![Open-Source Software][oss icon]](https://github.com/joshuacerdenia/NiceFeed) ⭐ 91 | 🐛 29 | 🌐 Kotlin | 📅 2022-05-31
-* [Aggregator](https://tughi.github.io/aggregator-android/) <sup>[604](https://t.me/s/aboutrss/604)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.tughi.aggregator.next)[![Open-Source Software][oss icon]](https://github.com/tughi/aggregator-android) ⭐ 72 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-10![Freeware][freeware icon]
+* [Aggregator](https://tughi.github.io/aggregator-android/) <sup>[604](https://t.me/s/aboutrss/604)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.tughi.aggregator.next)[![Open-Source Software][oss icon]](https://github.com/tughi/aggregator-android) ⭐ 72 | 🐛 8 | 🌐 Kotlin | 📅 2026-10-30![Freeware][freeware icon]
 * [Kinss for Kindle](https://github.com/xizeyoupan/kinss) ⚠️ Archived <sup>[731](https://t.me/s/aboutrss/731)</sup> [![Open-Source Software][oss icon]](https://github.com/xizeyoupan/kinss) ⚠️ Archived![Freeware][freeware icon]
 * [WebFeed](https://taoshu.in/webfeed/) <sup>[1213](https://t.me/s/aboutrss/1213)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/webfeed/phonnpdncnchhpobgkabgcjoapjcacop/)[![Firefox][Firefox icon]](https://addons.mozilla.org/zh-CN/firefox/addon/webfeed/)[![Open-Source Software][oss icon]](https://github.com/taoso/webfeed) ⭐ 53 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-03![Freeware][freeware icon]
 * [Reams](https://reams.app/) <sup>[1194](https://t.me/s/aboutrss/1194)</sup> [![Open-Source Software][oss icon]](https://github.com/admbtlr/reams) ⭐ 42 | 🐛 15 | 🌐 JavaScript | 📅 2026-06-06[![iOS][iPhone icon]](https://apps.apple.com/app/reams/id1229027127)
@@ -501,11 +507,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### Hosted Readers
 
-* [Miniflux](https://miniflux.app/hosting.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [740](https://t.me/s/aboutrss/740)</sup> [![Online][Online icon]](https://miniflux.app/hosting.html)[![Open-Source Software][oss icon]](https://github.com/miniflux/miniflux) ⭐ 9,855 | 🐛 281 | 🌐 Go | 📅 2026-10-29
+* [Miniflux](https://miniflux.app/hosting.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [740](https://t.me/s/aboutrss/740)</sup> [![Online][Online icon]](https://miniflux.app/hosting.html)[![Open-Source Software][oss icon]](https://github.com/miniflux/miniflux) ⭐ 9,860 | 🐛 281 | 🌐 Go | 📅 2026-10-30
   * [Heroku-Miniflux](https://github.com/sayomelu/heroku-miniflux) <sup>[945](https://t.me/s/aboutrss/945)</sup> [![Open-Source Software][oss icon]](https://github.com/sayomelu/heroku-miniflux)
 * [Winds](https://getstream.io/winds/) <sup>[90](https://t.me/s/aboutrss/90)</sup> [![Online][Online icon]](https://winds.getstream.io/)![Windows][Windows icon]![Mac][Mac icon]![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/getstream/winds/) ⚠️ Archived
-* [Feedbin](https://feedbin.com/) ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software][oss icon]](https://github.com/feedbin/feedbin) ⭐ 3,782 | 🐛 182 | 🌐 Ruby | 📅 2026-10-28
-* [CommaFeed](https://www.commafeed.com/) <sup>[1332](https://t.me/s/aboutrss/1332), [1293](https://t.me/s/aboutrss/1293)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/Athou/commafeed) ⭐ 3,638 | 🐛 45 | 🌐 Java | 📅 2026-10-29![Freeware][freeware icon]
+* [Feedbin](https://feedbin.com/) ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software][oss icon]](https://github.com/feedbin/feedbin) ⭐ 3,782 | 🐛 182 | 🌐 Ruby | 📅 2026-10-30
+* [CommaFeed](https://www.commafeed.com/) <sup>[1332](https://t.me/s/aboutrss/1332), [1293](https://t.me/s/aboutrss/1293)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/Athou/commafeed) ⭐ 3,640 | 🐛 43 | 🌐 Java | 📅 2026-10-30![Freeware][freeware icon]
 * [RSSANT 蚁阅](https://rss.anyant.com/) <sup>[326](https://t.me/s/aboutrss/326), [328](https://t.me/s/aboutrss/328), [498](https://t.me/s/aboutrss/498), [501](https://t.me/s/aboutrss/501), [849](https://t.me/s/aboutrss/849)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/anyant/rssant) ⭐ 1,657 | 🐛 26 | 🌐 Python | 📅 2026-10-25![Freeware][freeware icon]
 * [FeedHQ](https://feedhq.org/) ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/feedhq/feedhq) ⭐ 578 | 🐛 36 | 🌐 Python | 📅 2022-03-21
 * [Newspipe](https://www.newspipe.org/) <sup>[464](https://t.me/s/aboutrss/464)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/cedricbonhomme/newspipe) ⭐ 499 | 🐛 1 | 🌐 Python | 📅 2026-10-27![Freeware][freeware icon]
@@ -525,7 +531,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 * [ReadCog](https://www.readcog.cn/) <sup>[162](https://t.me/s/aboutrss/162), [167](https://t.me/s/aboutrss/167)</sup> ![Online][Online icon]![Freeware][freeware icon]
 * [RSSGROUND](https://www.rssground.com/) <sup>[273](https://t.me/s/aboutrss/273), [1109![Video][Video icon]](https://t.me/s/aboutrss/1109)</sup> ![Online][Online icon]
 * [Inoreader](https://www.inoreader.com/) <sup>[171](https://t.me/s/aboutrss/171), [172](https://t.me/s/aboutrss/172), [317](https://t.me/s/aboutrss/317), [319](https://t.me/s/aboutrss/319), [358](https://t.me/s/aboutrss/358), [489](https://t.me/s/aboutrss/489), [512](https://t.me/s/aboutrss/512), [598](https://t.me/s/aboutrss/598), [606](https://t.me/s/aboutrss/606), [798](https://t.me/s/aboutrss/798), [838](https://t.me/s/aboutrss/838), [907](https://t.me/s/aboutrss/907), [934](https://t.me/s/aboutrss/934)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/app/apple-store/id892355414?pt=32204000\&ct=inoreader_internal\&mt=8)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.innologica.inoreader)[![Windows][Windows icon]](https://www.microsoft.com/p/inoreader-rss-news-reader/9nblggh0hdfb)
-  * [Irodr](https://irodr.netlify.app/) <sup>[902](https://t.me/s/aboutrss/902)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/azu/irodr) ⭐ 141 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-29![Freeware][freeware icon]
+  * [Irodr](https://irodr.netlify.app/) <sup>[902](https://t.me/s/aboutrss/902)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/azu/irodr) ⭐ 141 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-30![Freeware][freeware icon]
 * [Feedly](https://feedly.com) <sup>[322](https://t.me/s/aboutrss/332), [759](https://t.me/s/aboutrss/759)</sup> ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.devhd.feedly)![AI][AI icon]
   * [Feedly Notifier](https://olsh.me/Feedly-Notifier/) <sup>[913](https://t.me/s/aboutrss/913)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb)[![Firefox][Firefox icon]](https://addons.mozilla.org/en-US/firefox/addon/feedly-notifier/)[![Open-Source Software][oss icon]](https://github.com/olsh/Feedly-Notifier/) ⭐ 314 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-26![Freeware][freeware icon]
 * [USEPANDA](https://usepanda.com/) <sup>[340](https://t.me/s/aboutrss/340)</sup> [![Online][Online icon]](https://usepanda.com/app/)[![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/panda-5-your-favorite-web/haafibkemckmbknhfkiiniobjpgkebko)[![][iPhone icon]](https://apps.apple.com/gb/app/panda-lite-browse-product/id934805959)
@@ -595,30 +601,31 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 * [RSS is Awesome](https://rssisawesome.com/) <sup>[1469](https://t.me/s/aboutrss/1469)</sup> ![Online][Online icon]
 * [Follow](https://follow.is/) <sup>[1478](https://t.me/s/aboutrss/1478), [1489](https://t.me/s/aboutrss/1489)</sup> [![Online][Online icon]](https://app.follow.is/)[![Windows][Windows icon]](https://follow.is/download)[![Mac][Mac icon]](https://follow.is/download)[![Linux][Linux icon]](https://follow.is/download)![AI][AI icon]
 * [Proofite](https://proofite.com/) [![Online][Online icon]](https://proofite.com/)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.proofite.app)![AI][AI icon][![MCP][MCP icon]](https://proofite.com/mcp) : AI daily digest of your feeds, newsletters and web searches, also as a podcast; an [MCP server](https://proofite.com/mcp) lets an AI assistant retune what reaches you.
+* [IntelCue RSS Reader](https://www.intelcue.ai/tools/rss-reader): free web reader with no signup and no feed limit, keeps subscriptions, read marks and saved items in browser local storage, auto-discovers a feed from a site URL, and supports OPML import/export, full-text search and a keyword watchlist ![Online][Online icon]![Freeware][freeware icon]
 
 ### Self Hosted Readers
 
-* [FreshRSS](https://freshrss.org) <sup>[23](https://t.me/s/aboutrss/23), [304](https://t.me/s/aboutrss/304), [348](https://t.me/s/aboutrss/348), [435](https://t.me/s/aboutrss/435), [642](https://t.me/s/aboutrss/642), [955](https://t.me/s/aboutrss/955), [995](https://t.me/s/aboutrss/995), [1103](https://t.me/s/aboutrss/1103), [1266](https://t.me/s/aboutrss/1266)</sup> [![Open-Source Software][oss icon]](https://github.com/FreshRSS/FreshRSS) ⭐ 16,447 | 🐛 686 | 🌐 PHP | 📅 2026-10-26
-  * [FriRSS](https://github.com/Fripix/frirss) ⭐ 88 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30: a self-hostable modern web frontend for FreshRSS (via its Google Reader API), with offline reading as a PWA [![Open-Source Software][oss icon]](https://github.com/Fripix/frirss) ⭐ 88 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30
-* [Miniflux](https://miniflux.app/index.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [831](https://t.me/s/aboutrss/831), [858](https://t.me/s/aboutrss/858), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983)</sup> [![Online][Online icon]](https://miniflux.app/hosting.html)[![Open-Source Software][oss icon]](https://github.com/miniflux/miniflux) ⭐ 9,855 | 🐛 281 | 🌐 Go | 📅 2026-10-29
-  * [Nextflux](https://github.com/electh/nextflux) ⭐ 530 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-16 <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/nextflux) ⭐ 530 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-16
-  * [Reactflux](https://github.com/electh/ReactFlux) ⭐ 522 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-24 <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/ReactFlux) ⭐ 522 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-24
-  * [Miniflutt](https://github.com/DocMarty84/miniflutt) ⭐ 147 | 🐛 15 | 🌐 Dart | 📅 2026-10-28 <sup>[1486](https://t.me/s/aboutrss/1486)</sup> [![Open-Source Software][oss icon]](https://github.com/DocMarty84/miniflutt) ⭐ 147 | 🐛 15 | 🌐 Dart | 📅 2026-10-28[![Android][Android icon]](https://play.google.com/store/apps/details?id=be.martinelli.miniflutt)
+* [FreshRSS](https://freshrss.org) <sup>[23](https://t.me/s/aboutrss/23), [304](https://t.me/s/aboutrss/304), [348](https://t.me/s/aboutrss/348), [435](https://t.me/s/aboutrss/435), [642](https://t.me/s/aboutrss/642), [955](https://t.me/s/aboutrss/955), [995](https://t.me/s/aboutrss/995), [1103](https://t.me/s/aboutrss/1103), [1266](https://t.me/s/aboutrss/1266)</sup> [![Open-Source Software][oss icon]](https://github.com/FreshRSS/FreshRSS) ⭐ 16,460 | 🐛 685 | 🌐 PHP | 📅 2026-10-30
+  * [FriRSS](https://github.com/Fripix/frirss) ⭐ 88 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-30: a self-hostable modern web frontend for FreshRSS (via its Google Reader API), with offline reading as a PWA [![Open-Source Software][oss icon]](https://github.com/Fripix/frirss) ⭐ 88 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-30
+* [Miniflux](https://miniflux.app/index.html) <sup>[369](https://t.me/s/aboutrss/369), [428](https://t.me/s/aboutrss/428), [831](https://t.me/s/aboutrss/831), [858](https://t.me/s/aboutrss/858), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983)</sup> [![Online][Online icon]](https://miniflux.app/hosting.html)[![Open-Source Software][oss icon]](https://github.com/miniflux/miniflux) ⭐ 9,860 | 🐛 281 | 🌐 Go | 📅 2026-10-30
+  * [Nextflux](https://github.com/electh/nextflux) ⭐ 531 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-16 <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/nextflux) ⭐ 531 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-16
+  * [Reactflux](https://github.com/electh/ReactFlux) ⭐ 522 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-30 <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/ReactFlux) ⭐ 522 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-30
+  * [Miniflutt](https://github.com/DocMarty84/miniflutt) ⭐ 147 | 🐛 15 | 🌐 Dart | 📅 2026-10-30 <sup>[1486](https://t.me/s/aboutrss/1486)</sup> [![Open-Source Software][oss icon]](https://github.com/DocMarty84/miniflutt) ⭐ 147 | 🐛 15 | 🌐 Dart | 📅 2026-10-30[![Android][Android icon]](https://play.google.com/store/apps/details?id=be.martinelli.miniflutt)
   * [Awesome Miniflux](https://github.com/hirusi/awesome-miniflux) ⭐ 82 | 🐛 2 | 📅 2024-12-08 <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software][oss icon]](https://github.com/hirusi/awesome-miniflux) ⭐ 82 | 🐛 2 | 📅 2024-12-08
   * [docker-miniflux-postgresql](https://github.com/fengkx/docker-miniflux-postgresql) ⭐ 24 | 🐛 0 | 📅 2021-03-13 <sup>[607](https://t.me/s/aboutrss/607)</sup>: docker of miniflux RSS Reader with PostgreSQL in docker-compose [![Open-Source Software][oss icon]](https://github.com/fengkx/docker-miniflux-postgresql) ⭐ 24 | 🐛 0 | 📅 2021-03-13
   * [Miniflux Indexer](https://github.com/QuantumGhost/miniflux-indexer) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2021-04-20 <sup>[1022](https://t.me/s/aboutrss/1022)</sup> [![Open-Source Software][oss icon]](https://github.com/QuantumGhost/miniflux-indexer) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2021-04-20
   * [Reading for RSS](https://apps.apple.com/app/reading-for-rss/id1611939852) <sup>[1219](https://t.me/s/aboutrss/1219)</sup> [![][iPhone icon]](https://apps.apple.com/app/reading-for-rss/id1611939852)![Freeware][freeware icon]
   * [Inoreader to Miniflux/v2 GitHub Gist](https://gist.github.com/douo/3e37bc863c5af9cbf393fe8724be6bb4) <sup>[1323](https://t.me/s/aboutrss/1323)</sup>
-* [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204)</sup> [![Online][Online icon]](https://newsblur.com/)[![][iPhone icon]](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software][oss icon]](https://github.com/samuelclay/NewsBlur) ⭐ 7,674 | 🐛 142 | 🌐 HTML | 📅 2026-10-29
+* [NewsBlur](https://newsblur.com/) <sup>[204](https://t.me/s/aboutrss/204)</sup> [![Online][Online icon]](https://newsblur.com/)[![][iPhone icon]](http://itunes.apple.com/us/app/newsblur/id463981119)[![Android][Android icon]](https://play.google.com/store/apps/details?id=com.newsblur)[![Open-Source Software][oss icon]](https://github.com/samuelclay/NewsBlur) ⭐ 7,675 | 🐛 141 | 🌐 HTML | 📅 2026-10-30
 * [Stringer](https://github.com/swanson/stringer) ⭐ 4,126 | 🐛 25 | 🌐 Ruby | 📅 2026-10-29 <sup>[388](https://t.me/s/aboutrss/388)</sup> [![Open-Source Software][oss icon]](https://github.com/swanson/stringer) ⭐ 4,126 | 🐛 25 | 🌐 Ruby | 📅 2026-10-29
-* [Feedbin](https://feedbin.com/) ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software][oss icon]](https://github.com/feedbin/feedbin) ⭐ 3,782 | 🐛 182 | 🌐 Ruby | 📅 2026-10-28
-* [CommaFeed](https://www.commafeed.com/) ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/Athou/commafeed) ⭐ 3,638 | 🐛 45 | 🌐 Java | 📅 2026-10-29![Freeware][freeware icon]
-* [selfoss](https://selfoss.aditu.de/) <sup>[128](https://t.me/s/aboutrss/128), [266](https://t.me/s/aboutrss/266), [389](https://t.me/s/aboutrss/389)</sup> [![Open-Source Software][oss icon]](https://github.com/SSilence/selfoss) ⭐ 2,472 | 🐛 181 | 🌐 HTML | 📅 2026-10-29
-* [Huntly](https://github.com/lcomplete/huntly) ⭐ 2,347 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-30 <sup>[1306](https://t.me/s/aboutrss/1306)</sup> [![Open-Source Software][oss icon]](https://github.com/lcomplete/huntly) ⭐ 2,347 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-30
-* [Fusion](https://github.com/0x2E/fusion) ⭐ 2,199 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-07 <sup>[1462](https://t.me/s/aboutrss/1462)</sup> [![Open-Source Software][oss icon]](https://github.com/0x2E/fusion) ⭐ 2,199 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-07
+* [Feedbin](https://feedbin.com/) ![Online][Online icon][![][iPhone icon]](https://apps.apple.com/us/app/feedbin/id1444961766)[![Open-Source Software][oss icon]](https://github.com/feedbin/feedbin) ⭐ 3,782 | 🐛 182 | 🌐 Ruby | 📅 2026-10-30
+* [CommaFeed](https://www.commafeed.com/) ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/Athou/commafeed) ⭐ 3,640 | 🐛 43 | 🌐 Java | 📅 2026-10-30![Freeware][freeware icon]
+* [selfoss](https://selfoss.aditu.de/) <sup>[128](https://t.me/s/aboutrss/128), [266](https://t.me/s/aboutrss/266), [389](https://t.me/s/aboutrss/389)</sup> [![Open-Source Software][oss icon]](https://github.com/SSilence/selfoss) ⭐ 2,473 | 🐛 181 | 🌐 HTML | 📅 2026-10-29
+* [Huntly](https://github.com/lcomplete/huntly) ⭐ 2,348 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-30 <sup>[1306](https://t.me/s/aboutrss/1306)</sup> [![Open-Source Software][oss icon]](https://github.com/lcomplete/huntly) ⭐ 2,348 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-30
+* [Fusion](https://github.com/0x2E/fusion) ⭐ 2,201 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-07 <sup>[1462](https://t.me/s/aboutrss/1462)</sup> [![Open-Source Software][oss icon]](https://github.com/0x2E/fusion) ⭐ 2,201 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-07
 * [RSSANT 蚁阅](https://rss.anyant.com/) <sup>[326](https://t.me/s/aboutrss/326), [328](https://t.me/s/aboutrss/328), [498](https://t.me/s/aboutrss/498), [501](https://t.me/s/aboutrss/501), [849](https://t.me/s/aboutrss/849)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/anyant/rssant) ⭐ 1,657 | 🐛 26 | 🌐 Python | 📅 2026-10-25![Freeware][freeware icon]
 * [Matcha - Daily RSS Digest](https://github.com/piqoni/matcha) ⭐ 754 | 🐛 11 | 🌐 Go | 📅 2025-12-22 <sup>[1298](https://t.me/s/aboutrss/1298)</sup> [![Open-Source Software][oss icon]](https://github.com/piqoni/matcha) ⭐ 754 | 🐛 11 | 🌐 Go | 📅 2025-12-22![AI][AI icon]
-* [RSSMonster](https://github.com/pietheinstrengholt/rssmonster) ⭐ 570 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-29 [![Open-Source Software][oss icon]](https://github.com/pietheinstrengholt/rssmonster) ⭐ 570 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-29
+* [RSSMonster](https://github.com/pietheinstrengholt/rssmonster) ⭐ 572 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-30 [![Open-Source Software][oss icon]](https://github.com/pietheinstrengholt/rssmonster) ⭐ 572 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-30
 * [reader](https://github.com/lemon24/reader) ⭐ 559 | 🐛 34 | 🌐 Python | 📅 2026-10-22: a Python feed reader library and web app [![Open-Source Software][oss icon]](https://github.com/lemon24/reader) ⭐ 559 | 🐛 34 | 🌐 Python | 📅 2026-10-22
 * [Newspipe](https://www.newspipe.org/) <sup>[464](https://t.me/s/aboutrss/464)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/cedricbonhomme/newspipe) ⭐ 499 | 🐛 1 | 🌐 Python | 📅 2026-10-27![Freeware][freeware icon]
 * [Informate.club](https://infomate.club/) <sup>[1283](https://t.me/s/aboutrss/1283)</sup> [![Open-Source Software][oss icon]](https://github.com/vas3k/infomate.club) ⭐ 486 | 🐛 20 | 🌐 Python | 📅 2025-06-15
@@ -641,6 +648,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 * [Social Reader](https://github.com/hyphacoop/reader.distributed.press) ⭐ 19 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-05 [![Online][Online icon]](https://reader.distributed.press/) [![Open-Source Software][oss icon]](https://github.com/hyphacoop/reader.distributed.press) ⭐ 19 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-05![Freeware][freeware icon]
 * [Dashboard](https://github.com/Rozhovetskyi/Dashboard) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-22 - ![Open-Source Software][oss icon]![Freeware][freeware icon] lightweight, customizable, client-side RSS feeds dashboard.
 * [Grapevine](https://github.com/MichaelRBond/Grapevine-Rss-Aggregator/) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-30 <sup>[544](https://t.me/s/aboutrss/544)</sup> [![Open-Source Software][oss icon]](https://github.com/MichaelRBond/Grapevine-Rss-Aggregator/) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2021-10-30
+* [reader](https://dev.standardbeagle.com/reader/) : Google Reader clone with three-pane UI, OPML import, snooze, saved lists with public RSS, Mastodon/Bluesky/Reddit ingestors with optional LLM filtering; Electron desktop or hosted web service from one TypeScript codebase. ([Demo](https://dev.standardbeagle.com/reader/demo/)) [![Open-Source Software][oss icon]](https://github.com/standardbeagle/reader) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13![AI][AI icon][![MCP][MCP icon]](https://github.com/standardbeagle/reader#readme) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-13
 * [Tiny Tiny RSS](https://tt-rss.org) <sup>[21](https://t.me/s/aboutrss/21), [37](https://t.me/s/aboutrss/37), [183](https://t.me/s/aboutrss/183), [184](https://t.me/s/aboutrss/184), [210](https://t.me/s/aboutrss/210), [211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [309](https://t.me/s/aboutrss/309), [323](https://t.me/s/aboutrss/323), [371](https://t.me/s/aboutrss/371), [373](https://t.me/s/aboutrss/373), [405](https://t.me/s/aboutrss/405), [428](https://t.me/s/aboutrss/428), [444](https://t.me/s/aboutrss/444), [559](https://t.me/s/aboutrss/559), [610](https://t.me/s/aboutrss/610), [640](https://t.me/s/aboutrss/640), [800](https://t.me/s/aboutrss/800), [827](https://t.me/s/aboutrss/827), [831](https://t.me/s/aboutrss/831), [841](https://t.me/s/aboutrss/841), [853](https://t.me/s/aboutrss/853), [1040](https://t.me/s/aboutrss/1040),[1094](https://t.me/s/aboutrss/1094) </sup> [![Open-Source Software][oss icon]](https://git.tt-rss.org/fox/tt-rss)
   * [Awesome TTRSS](http://ttrss.henry.wang/) <sup>[211](https://t.me/s/aboutrss/211), [285](https://t.me/s/aboutrss/285), [371](https://t.me/s/aboutrss/371)</sup> [![Open-Source Software][oss icon]](https://github.com/HenryQW/Awesome-TTRSS) ⭐ 2,587 | 🐛 1 | 🌐 PHP | 📅 2026-10-26
   * [docker-ttrss](https://github.com/x86dev/docker-ttrss) ⚠️ Archived [![Open-Source Software][oss icon]](https://github.com/x86dev/docker-ttrss) ⚠️ Archived
@@ -652,7 +660,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### RSS Reader in Email System
 
-* [Cypht](https://cypht.org/) <sup>[1226](https://t.me/s/aboutrss/1226)</sup> [![Open-Source Software][oss icon]](https://github.com/jasonmunro/cypht) ⭐ 1,777 | 🐛 142 | 🌐 PHP | 📅 2026-10-26
+* [Cypht](https://cypht.org/) <sup>[1226](https://t.me/s/aboutrss/1226)</sup> [![Open-Source Software][oss icon]](https://github.com/jasonmunro/cypht) ⭐ 1,779 | 🐛 142 | 🌐 PHP | 📅 2026-10-26
 * [Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) <sup>[540](https://t.me/s/aboutrss/540), [988](https://t.me/s/aboutrss/988)</sup> [![Windows][Windows icon]](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook) ![Freeware][freeware icon]
 * [Mozilla Thunderbird](https://www.thunderbird.net/) [![Open-Source Software][oss icon]](https://hg.mozilla.org/comm-central/)![Freeware][freeware icon]
 * [Vivaldi Feed Reader](https://vivaldi.com/blog/vivaldi-mail-technical-preview/) <sup>[886](https://t.me/s/aboutrss/886), [1049](https://t.me/s/aboutrss/1049)</sup> ![Freeware][freeware icon]
@@ -660,9 +668,9 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### Terminal-based / programmable RSS readers
 
-* [Newsboat](https://newsboat.org/) <sup>[374](https://t.me/s/aboutrss/374)</sup> [![Open-Source Software][oss icon]](https://github.com/newsboat/newsboat) ⭐ 3,931 | 🐛 412 | 🌐 C++ | 📅 2026-10-25 ![Linux][Linux icon]![Mac][Mac icon]
-* [Elfeed Emacs Web Feed Reader](https://github.com/skeeto/elfeed) ⭐ 1,802 | 🐛 3 | 🌐 Emacs Lisp | 📅 2026-10-10 <sup>[984](https://t.me/s/aboutrss/984)</sup> [![Open-Source Software][oss icon]](https://github.com/skeeto/elfeed) ⭐ 1,802 | 🐛 3 | 🌐 Emacs Lisp | 📅 2026-10-10
-* [eilmeldung](https://github.com/christo-auer/eilmeldung) ⭐ 1,042 | 🐛 5 | 🌐 Rust | 📅 2026-10-29 [![Open-Source Software][oss icon]](https://github.com/christo-auer/eilmeldung) ⭐ 1,042 | 🐛 5 | 🌐 Rust | 📅 2026-10-29 ![Linux][Linux icon]![Mac][Mac icon]
+* [Newsboat](https://newsboat.org/) <sup>[374](https://t.me/s/aboutrss/374)</sup> [![Open-Source Software][oss icon]](https://github.com/newsboat/newsboat) ⭐ 3,932 | 🐛 412 | 🌐 C++ | 📅 2026-10-25 ![Linux][Linux icon]![Mac][Mac icon]
+* [Elfeed Emacs Web Feed Reader](https://github.com/skeeto/elfeed) ⭐ 1,803 | 🐛 3 | 🌐 Emacs Lisp | 📅 2026-10-10 <sup>[984](https://t.me/s/aboutrss/984)</sup> [![Open-Source Software][oss icon]](https://github.com/skeeto/elfeed) ⭐ 1,803 | 🐛 3 | 🌐 Emacs Lisp | 📅 2026-10-10
+* [eilmeldung](https://github.com/christo-auer/eilmeldung) ⭐ 1,044 | 🐛 5 | 🌐 Rust | 📅 2026-10-29 [![Open-Source Software][oss icon]](https://github.com/christo-auer/eilmeldung) ⭐ 1,044 | 🐛 5 | 🌐 Rust | 📅 2026-10-29 ![Linux][Linux icon]![Mac][Mac icon]
 * [newsbeuter](https://newsbeuter.org/) <sup>[340](https://t.me/s/aboutrss/340)</sup> ![Linux][Linux icon][![Open-Source Software][oss icon]](https://github.com/akrennmair/newsbeuter/tree/master) ⚠️ Archived![Freeware][freeware icon]
 * [reader](https://github.com/lemon24/reader) ⭐ 559 | 🐛 34 | 🌐 Python | 📅 2026-10-22: a Python feed reader library and web app [![Open-Source Software][oss icon]](https://github.com/lemon24/reader) ⭐ 559 | 🐛 34 | 🌐 Python | 📅 2026-10-22
 * [GORSS - Go RSS Reader](https://github.com/Lallassu/gorss) ⭐ 464 | 🐛 4 | 🌐 Go | 📅 2026-01-21 <sup>[533](https://t.me/s/aboutrss/533)</sup> [![Open-Source Software][oss icon]](https://github.com/Lallassu/gorss) ⭐ 464 | 🐛 4 | 🌐 Go | 📅 2026-01-21
@@ -671,7 +679,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 * [Cleed](https://github.com/radulucut/cleed) ⭐ 212 | 🐛 4 | 🌐 Go | 📅 2025-09-28 [![Open-Source Software][oss icon]](https://github.com/radulucut/cleed) ⭐ 212 | 🐛 4 | 🌐 Go | 📅 2025-09-28![Linux][Linux icon]![Windows][Windows icon]![Mac][Mac icon]
 * [feed.nvim - Neovim Web Feed Reader](https://github.com/neo451/feed.nvim) ⭐ 208 | 🐛 7 | 🌐 Lua | 📅 2026-10-06 [![Open-Source Software][oss icon]](https://github.com/neo451/feed.nvim) ⭐ 208 | 🐛 7 | 🌐 Lua | 📅 2026-10-06
 * [cast-text](https://github.com/piqoni/cast-text) ⭐ 163 | 🐛 6 | 🌐 Go | 📅 2024-09-25 [![Open-Source Software][oss icon]](https://github.com/piqoni/cast-text) ⭐ 163 | 🐛 6 | 🌐 Go | 📅 2024-09-25![Freeware][freeware icon]![Linux][Linux icon]![Mac][Mac icon]![Windows][Windows icon]: a zero-latency, easy-to-use, rss reader.
-* [Syndicationd](https://github.com/ymgyt/syndicationd) ⭐ 155 | 🐛 12 | 🌐 Rust | 📅 2026-10-29: a TUI feed viewer written in Rust <sup>[1461](https://t.me/s/aboutrss/1461)</sup> [![Open-Source Software][oss icon]](https://github.com/ymgyt/syndicationd) ⭐ 155 | 🐛 12 | 🌐 Rust | 📅 2026-10-29![Linux][Linux icon]![Windows][Windows icon]![Mac][Mac icon]
+* [Syndicationd](https://github.com/ymgyt/syndicationd) ⭐ 155 | 🐛 12 | 🌐 Rust | 📅 2026-10-30: a TUI feed viewer written in Rust <sup>[1461](https://t.me/s/aboutrss/1461)</sup> [![Open-Source Software][oss icon]](https://github.com/ymgyt/syndicationd) ⭐ 155 | 🐛 12 | 🌐 Rust | 📅 2026-10-30![Linux][Linux icon]![Windows][Windows icon]![Mac][Mac icon]
 * [EAF RSS](https://github.com/emacs-eaf/eaf-rss-reader) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2024-12-11 <sup>[1124](https://t.me/s/aboutrss/1124)</sup> [![Open-Source Software][oss icon]](https://github.com/emacs-eaf/eaf-rss-reader) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2024-12-11
 * [feed2exec](https://feed2exec.readthedocs.io/en/stable/) <sup>[391](https://t.me/s/aboutrss/391)</sup> [![Open-Source Software][oss icon]](https://gitlab.com/anarcat/feed2exec)
 * Emacs Gnus <sup>[418](https://t.me/s/aboutrss/418)</sup>
@@ -680,11 +688,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 > Note that [GitHub might disable action trigger if no activity in the repo for 60 days](https://docs.github.com/cn/actions/managing-workflow-runs/disabling-and-enabling-a-workflow). <sup>[1016](https://t.me/aboutrss/1016?comment=7171)</sup>
 
-* [GARSS](https://github.com/zhaoolee/garss) ⭐ 1,438 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-29 <sup>[973](https://t.me/s/aboutrss/973)</sup> [![Open-Source Software][oss icon]](https://github.com/zhaoolee/garss) ⭐ 1,438 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-29![Freeware][freeware icon]
+* [GARSS](https://github.com/zhaoolee/garss) ⭐ 1,439 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-30 <sup>[973](https://t.me/s/aboutrss/973)</sup> [![Open-Source Software][oss icon]](https://github.com/zhaoolee/garss) ⭐ 1,439 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-30![Freeware][freeware icon]
 * [osmos::feed](https://github.com/osmoscraft/osmosfeed) ⭐ 990 | 🐛 2 | 🌐 TypeScript | 📅 2023-10-11 <sup>[1012](https://t.me/s/aboutrss/1012)</sup>: a web-based RSS reader running entirely on GitHub [![Open-Source Software][oss icon]](https://github.com/osmoscraft/osmosfeed) ⭐ 990 | 🐛 2 | 🌐 TypeScript | 📅 2023-10-11![Freeware][freeware icon]
 * [Bubo reader](https://github.com/georgemandis/bubo-rss) ⭐ 236 | 🐛 5 | 🌐 TypeScript | 📅 2026-01-10: a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software][oss icon]](https://github.com/georgemandis/bubo-rss) ⭐ 236 | 🐛 5 | 🌐 TypeScript | 📅 2026-01-10![Freeware][freeware icon]\([Deploy on Github](https://github.com/kevinfiol/reader) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26-personal fork)
 * [RSSeveryday](https://github.com/GuangzheJiang/rss_everyday) ⭐ 200 | 🐛 0 | 🌐 Go | 📅 2023-04-26 <sup>[1016](https://t.me/s/aboutrss/1016)</sup> [![Open-Source Software][oss icon]](https://github.com/GuangzheJiang/rss_everyday) ⭐ 200 | 🐛 0 | 🌐 Go | 📅 2023-04-26![Freeware][freeware icon]
-* [rssTea](https://github.com/avadhesh18/rssTea) ⭐ 83 | 🐛 4 | 🌐 HTML | 📅 2026-10-29: a RSS reader and Podcast player Progressive Web App running on GitHub Actions <sup>[1375](https://t.me/s/aboutrss/1375)</sup> [![Open-Source Software][oss icon]](https://github.com/avadhesh18/rssTea) ⭐ 83 | 🐛 4 | 🌐 HTML | 📅 2026-10-29![Freeware][freeware icon]
+* [rssTea](https://github.com/avadhesh18/rssTea) ⭐ 83 | 🐛 4 | 🌐 HTML | 📅 2026-10-30: a RSS reader and Podcast player Progressive Web App running on GitHub Actions <sup>[1375](https://t.me/s/aboutrss/1375)</sup> [![Open-Source Software][oss icon]](https://github.com/avadhesh18/rssTea) ⭐ 83 | 🐛 4 | 🌐 HTML | 📅 2026-10-30![Freeware][freeware icon]
 
 ### RSS services powered by utilizing Notion
 
@@ -711,8 +719,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### Other Apps
 
-* [Legado](https://gedoor.github.io/) <sup>[1319](https://t.me/s/aboutrss/1319)</sup>: A Book Reader [![Open-Source Software][oss icon]](https://github.com/gedoor/legado) ⭐ 47,177 | 🐛 18 | 🌐 Kotlin | 📅 2026-05-27![Freeware][freeware icon]
-* [PlainApp](https://github.com/ismartcoding/plain-app) ⭐ 7,101 | 🐛 70 | 🌐 Kotlin | 📅 2026-10-29: with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software][oss icon]](https://github.com/ismartcoding/plain-app) ⭐ 7,101 | 🐛 70 | 🌐 Kotlin | 📅 2026-10-29
+* [Legado](https://gedoor.github.io/) <sup>[1319](https://t.me/s/aboutrss/1319)</sup>: A Book Reader [![Open-Source Software][oss icon]](https://github.com/gedoor/legado) ⭐ 47,190 | 🐛 18 | 🌐 Kotlin | 📅 2026-05-27![Freeware][freeware icon]
+* [PlainApp](https://github.com/ismartcoding/plain-app) ⭐ 7,106 | 🐛 70 | 🌐 Kotlin | 📅 2026-10-30: with an RSS reader function built in <sup>[1338](https://t.me/s/aboutrss/1338)</sup> [![Open-Source Software][oss icon]](https://github.com/ismartcoding/plain-app) ⭐ 7,106 | 🐛 70 | 🌐 Kotlin | 📅 2026-10-30
 * [sensor.feedparser](https://github.com/custom-components/feedparser) ⭐ 183 | 🐛 33 | 🌐 Python | 📅 2026-06-22 <sup>[212](https://t.me/s/aboutrss/212)</sup> : RSS feed custom component for Home Assistant. [![Open-Source Software][oss icon]](https://github.com/custom-components/feedparser) ⭐ 183 | 🐛 33 | 🌐 Python | 📅 2026-06-22
 * [VSCode-RSS](https://github.com/luyuhuang/vscode-rss) ⭐ 168 | 🐛 20 | 🌐 TypeScript | 📅 2024-08-30 <sup>[572](https://t.me/s/aboutrss/572), [618](https://t.me/s/aboutrss/618)</sup> : An RSS reader embedded in Visual Studio Code [![Open-Source Software][oss icon]](https://github.com/luyuhuang/vscode-rss) ⭐ 168 | 🐛 20 | 🌐 TypeScript | 📅 2024-08-30
 * [Mastofeeder](https://mastofeeder.com/) <sup>[1327](https://t.me/s/aboutrss/1327)</sup>: Using Mastodon as a RSS Reader [![Open-Source Software][oss icon]](https://github.com/jehna/mastofeeder) ⚠️ Archived
@@ -768,7 +776,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 * [The RSS endpoint Gist](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2#readersaggregators) <sup>[1011](https://t.me/s/aboutrss/1011)</sup>
 * [The Top 125 RSS Open Source Projects](https://awesomeopensource.com/projects/rss)
-* [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers) ⭐ 331,819 | 🐛 0 | 📅 2026-10-29
+* [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers) ⭐ 332,145 | 🐛 0 | 📅 2026-10-29
 * [RSS 工具大全 by 幻璧](https://blog.wizos.me/20180412-134.html)
 * [RSS 项目: a WorkFlowy list](https://workflowy.com/#/6e20a3531287)
 * [RSS指南](https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d) <sup>[1224](https://t.me/s/aboutrss/1224)</sup>
@@ -861,8 +869,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### Miniflux
 
-* [Nextflux](https://github.com/electh/nextflux) ⭐ 530 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-16 <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/nextflux) ⭐ 530 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-16
-* [Reactflux](https://github.com/electh/ReactFlux) ⭐ 522 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-24 <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/ReactFlux) ⭐ 522 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-24
+* [Nextflux](https://github.com/electh/nextflux) ⭐ 531 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-16 <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/nextflux) ⭐ 531 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-16
+* [Reactflux](https://github.com/electh/ReactFlux) ⭐ 522 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-30 <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software][oss icon]](https://github.com/electh/ReactFlux) ⭐ 522 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-30
 * [miniflux-theme-reeder](https://github.com/rootknight/Miniflux-Theme-Reeder) ⭐ 157 | 🐛 0 | 🌐 CSS | 📅 2025-11-03 [![Open-Source Software][oss icon]](https://github.com/rootknight/Miniflux-Theme-Reeder) ⭐ 157 | 🐛 0 | 🌐 CSS | 📅 2025-11-03
 * [Reeder like theme](https://github.com/rootknight/Miniflux-Theme-Reeder) ⭐ 157 | 🐛 0 | 🌐 CSS | 📅 2025-11-03 <sup>[1433](https://t.me/s/aboutrss/1433)</sup> [![Open-Source Software][oss icon]](https://github.com/rootknight/Miniflux-Theme-Reeder) ⭐ 157 | 🐛 0 | 🌐 CSS | 📅 2025-11-03
 * [reminiflux](https://reminiflux.github.io/) <sup>[858](https://t.me/s/aboutrss/858)</sup> [![Open-Source Software][oss icon]](https://github.com/reminiflux/reminiflux) ⭐ 122 | 🐛 5 | 🌐 JavaScript | 📅 2024-05-02
@@ -892,7 +900,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### Telegram RSS bots
 
-* [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) ⭐ 2,173 | 🐛 64 | 🌐 Python | 📅 2026-10-26
+* [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) ⭐ 2,172 | 🐛 63 | 🌐 Python | 📅 2026-10-30
 * [~~flowerss~~](https://t.me/rssflowbot) <sup>[17](https://t.me/s/aboutrss/17), [117](https://t.me/s/aboutrss/117), [322](https://t.me/s/aboutrss/322), [914](https://t.me/s/aboutrss/914)</sup> [![Open-Source Software][oss icon]](https://github.com/indes/flowerss-bot) ⚠️ Archived
   * [@rssthu\_bot](https://t.me/rssthu_bot)
   * [@Finger\_RSS\_bot](https://t.me/Finger_RSS_bot)
@@ -906,7 +914,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
   * [@Ekkrss\_bot](https://t.me/Ekkrss_bot) <sup>[985](https://t.me/aboutrss/985?comment=6819)</sup>
 * [RustRssBot](https://t.me/RustRssBot) <sup>[89](https://t.me/s/aboutrss/89), [158](https://t.me/s/aboutrss/158), [407](https://t.me/s/aboutrss/407)</sup> [![Open-Source Software][oss icon]](https://github.com/iovxw/rssbot) ⭐ 1,697 | 🐛 18 | 🌐 Rust | 📅 2026-08-17
   * [DragaNewsBot](https://t.me/DragaNewsBot)
-* [NodeRSSbot](https://rssbot.vercel.app/) <sup>[5](https://t.me/s/aboutrss/5), [118](https://t.me/s/aboutrss/118), [262](https://t.me/s/aboutrss/262), [280](https://t.me/s/aboutrss/280),  [547](https://t.me/s/aboutrss/547)</sup> [![Open-Source Software][oss icon]](https://github.com/fengkx/NodeRSSBot) ⭐ 405 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-29
+* [NodeRSSbot](https://rssbot.vercel.app/) <sup>[5](https://t.me/s/aboutrss/5), [118](https://t.me/s/aboutrss/118), [262](https://t.me/s/aboutrss/262), [280](https://t.me/s/aboutrss/280),  [547](https://t.me/s/aboutrss/547)</sup> [![Open-Source Software][oss icon]](https://github.com/fengkx/NodeRSSBot) ⭐ 405 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-30
 * [RobotRSS](https://t.me/PyRSS2Bot) <sup>[1009](https://t.me/aboutrss/1009?comment=7227)</sup> [![Open-Source Software][oss icon]](https://github.com/BoKKeR/RSS-to-Telegram-Bot) ⭐ 277 | 🐛 1 | 🌐 TypeScript | 📅 2024-06-17
 * [el\_monitorro\_bot](https://t.me/el_monitorro_bot) <sup>[601](https://t.me/s/aboutrss/601)</sup> [![Open-Source Software][oss icon]](https://github.com/ayrat555/el_monitorro) ⭐ 215 | 🐛 10 | 🌐 Rust | 📅 2026-07-09
 * [RobotRSS](https://t.me/PyRSSBot) <sup>[1009](https://t.me/s/aboutrss/1009)</sup> [![Open-Source Software][oss icon]](https://github.com/cbrgm/telegram-robot-rss) ⚠️ Archived
@@ -974,10 +982,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ## 🔱 Workflow Automation
 
-* [n8n.io](https://n8n.io/) <sup>[901](https://t.me/s/aboutrss/901)</sup> [![Open-Source Software][oss icon]](https://github.com/n8n-io/n8n) ⭐ 209,046 | 🐛 1,192 | 🌐 TypeScript | 📅 2026-10-29
-* [Huginn](https://github.com/huginn/huginn) ⭐ 50,182 | 🐛 690 | 🌐 Ruby | 📅 2026-10-26 <sup>[264](https://t.me/s/aboutrss/264), [272](https://t.me/s/aboutrss/272)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn) ⭐ 50,182 | 🐛 690 | 🌐 Ruby | 📅 2026-10-26
-* [RSS for Hackers @ Pipedream](https://rss.pipedream.com/) <sup>[534](https://t.me/s/aboutrss/534)</sup> [![Open-Source Software][oss icon]](https://github.com/PipedreamHQ/pipedream) ⭐ 11,765 | 🐛 4,611 | 🌐 JavaScript | 📅 2026-10-29![Freeware][freeware icon]
-* [Actionsflow](https://actionsflow.github.io/) <sup>[956](https://t.me/s/aboutrss/956)</sup> [![Open-Source Software][oss icon]](https://github.com/actionsflow/actionsflow) ⭐ 3,373 | 🐛 11 | 🌐 TypeScript | 📅 2025-10-21
+* [n8n.io](https://n8n.io/) <sup>[901](https://t.me/s/aboutrss/901)</sup> [![Open-Source Software][oss icon]](https://github.com/n8n-io/n8n) ⭐ 209,150 | 🐛 1,174 | 🌐 TypeScript | 📅 2026-10-30
+* [Huginn](https://github.com/huginn/huginn) ⭐ 50,221 | 🐛 691 | 🌐 Ruby | 📅 2026-10-26 <sup>[264](https://t.me/s/aboutrss/264), [272](https://t.me/s/aboutrss/272)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn) ⭐ 50,221 | 🐛 691 | 🌐 Ruby | 📅 2026-10-26
+* [RSS for Hackers @ Pipedream](https://rss.pipedream.com/) <sup>[534](https://t.me/s/aboutrss/534)</sup> [![Open-Source Software][oss icon]](https://github.com/PipedreamHQ/pipedream) ⭐ 11,766 | 🐛 4,616 | 🌐 JavaScript | 📅 2026-10-30![Freeware][freeware icon]
+* [Actionsflow](https://actionsflow.github.io/) <sup>[956](https://t.me/s/aboutrss/956)</sup> [![Open-Source Software][oss icon]](https://github.com/actionsflow/actionsflow) ⭐ 3,374 | 🐛 11 | 🌐 TypeScript | 📅 2025-10-21
 * [feedpushr](https://github.com/ncarlier/feedpushr) ⭐ 387 | 🐛 32 | 🌐 Go | 📅 2026-02-04 <sup>[692](https://t.me/s/aboutrss/692)</sup> [![Open-Source Software][oss icon]](https://github.com/ncarlier/feedpushr) ⭐ 387 | 🐛 32 | 🌐 Go | 📅 2026-02-04
 * [Platypush](https://platypush.readthedocs.io/en/latest/) <sup>[315](https://t.me/s/aboutrss/315)</sup> [![Open-Source Software][oss icon]](https://github.com/BlackLight/platypush) ⭐ 317 | 🐛 13 | 🌐 Python | 📅 2026-10-24
 * [Pipes](https://www.pipes.digital/) <sup>[526](https://t.me/s/aboutrss/526)</sup> [![Open-Source Software][oss icon]](https://github.com/pipes-digital/pipes) ⭐ 282 | 🐛 22 | 🌐 JavaScript | 📅 2026-05-08
@@ -1011,15 +1019,15 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### multiple sources
 
-* [Huginn](https://github.com/huginn/huginn) ⭐ 50,182 | 🐛 690 | 🌐 Ruby | 📅 2026-10-26 <sup>[264](https://t.me/s/aboutrss/264), [272](https://t.me/s/aboutrss/272), [329](https://t.me/s/aboutrss/329), [855](https://t.me/s/aboutrss/855)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn) ⭐ 50,182 | 🐛 690 | 🌐 Ruby | 📅 2026-10-26
-* [RSSHub](https://docs.rsshub.app/) <sup>[300](https://t.me/s/aboutrss/300), [352](https://t.me/s/aboutrss/352), [405](https://t.me/s/aboutrss/405), [422](https://t.me/s/aboutrss/422), [428](https://t.me/s/aboutrss/428), [443](https://t.me/s/aboutrss/443), [471](https://t.me/s/aboutrss/471), [474](https://t.me/s/aboutrss/474), [610](https://t.me/s/aboutrss/610), [800](https://t.me/s/aboutrss/800), [836](https://t.me/aboutrss/836), [892](https://t.me/aboutrss/892), [962](https://t.me/aboutrss/962), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983), [1038](https://t.me/s/aboutrss/1038), [1040](https://t.me/s/aboutrss/1040), [1091](https://t.me/s/aboutrss/1091)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub) ⭐ 46,721 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-29
+* [Huginn](https://github.com/huginn/huginn) ⭐ 50,221 | 🐛 691 | 🌐 Ruby | 📅 2026-10-26 <sup>[264](https://t.me/s/aboutrss/264), [272](https://t.me/s/aboutrss/272), [329](https://t.me/s/aboutrss/329), [855](https://t.me/s/aboutrss/855)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn) ⭐ 50,221 | 🐛 691 | 🌐 Ruby | 📅 2026-10-26
+* [RSSHub](https://docs.rsshub.app/) <sup>[300](https://t.me/s/aboutrss/300), [352](https://t.me/s/aboutrss/352), [405](https://t.me/s/aboutrss/405), [422](https://t.me/s/aboutrss/422), [428](https://t.me/s/aboutrss/428), [443](https://t.me/s/aboutrss/443), [471](https://t.me/s/aboutrss/471), [474](https://t.me/s/aboutrss/474), [610](https://t.me/s/aboutrss/610), [800](https://t.me/s/aboutrss/800), [836](https://t.me/aboutrss/836), [892](https://t.me/aboutrss/892), [962](https://t.me/aboutrss/962), [982](https://t.me/s/aboutrss/982), [983](https://t.me/s/aboutrss/983), [1038](https://t.me/s/aboutrss/1038), [1040](https://t.me/s/aboutrss/1040), [1091](https://t.me/s/aboutrss/1091)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub) ⭐ 46,735 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-30
   * [RSSbot](https://github.com/yindaheng98/RSSBot) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-14: connecting RSS feed generated by RSSHub and TTRSS <sup>[1337](https://t.me/s/aboutrss/1337)</sup> [![Open-Source Software][oss icon]](https://github.com/yindaheng98/RSSBot) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-14
-* [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge/wiki) ⭐ 9,322 | 🐛 291 | 🌐 PHP | 📅 2026-10-28 <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software][oss icon]](https://github.com/RSS-Bridge/rss-bridge) ⭐ 9,322 | 🐛 291 | 🌐 PHP | 📅 2026-10-28
+* [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge/wiki) ⭐ 9,323 | 🐛 293 | 🌐 PHP | 📅 2026-10-30 <sup>[257](https://t.me/s/aboutrss/257), [469](https://t.me/s/aboutrss/469), [478](https://t.me/s/aboutrss/478)</sup> [![Open-Source Software][oss icon]](https://github.com/RSS-Bridge/rss-bridge) ⭐ 9,323 | 🐛 293 | 🌐 PHP | 📅 2026-10-30
 * [RSS-proxy](https://rssproxy-v1.migor.org) <sup>[878](https://t.me/s/aboutrss/878)</sup> [![Open-Source Software][oss icon]](https://github.com/damoeb/rss-proxy) ⭐ 1,925 | 🐛 22 | 🌐 TypeScript | 📅 2025-01-06![Freeware][freeware icon]
 * [RSS Box](https://rssbox.herokuapp.com/) <sup>[581](https://t.me/s/aboutrss/581)</sup> [![Open-Source Software][oss icon]](https://github.com/stefansundin/rssbox) ⭐ 814 | 🐛 10 | 🌐 Ruby | 📅 2026-07-15![Freeware][freeware icon]
 * [RSS Worker](https://github.com/yllhwa/RSSWorker) ⭐ 803 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-18 <sup>[1379](https://t.me/s/aboutrss/1379)</sup> [![Open-Source Software][oss icon]](https://github.com/yllhwa/RSSWorker) ⭐ 803 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-18
-* [granary](https://granary.io/) <sup>[709](https://t.me/s/aboutrss/709)</sup> [![Open-Source Software][oss icon]](https://github.com/snarfed/granary/) ⭐ 516 | 🐛 35 | 🌐 Python | 📅 2026-10-29![Freeware][freeware icon]
-* [mkfd](https://github.com/TBosak/mkfd) ⭐ 284 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23
+* [granary](https://granary.io/) <sup>[709](https://t.me/s/aboutrss/709)</sup> [![Open-Source Software][oss icon]](https://github.com/snarfed/granary/) ⭐ 516 | 🐛 35 | 🌐 Python | 📅 2026-10-30![Freeware][freeware icon]
+* [mkfd](https://github.com/TBosak/mkfd) ⭐ 285 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23
 * [RSSerpent](https://github.com/RSSerpent/RSSerpent) ⭐ 204 | 🐛 20 | 🌐 Python | 📅 2026-10-05 <sup>[1063](https://t.me/s/aboutrss/1063), [1117](https://t.me/s/aboutrss/1117)</sup> [![Open-Source Software][oss icon]](https://github.com/RSSerpent/RSSerpent) ⭐ 204 | 🐛 20 | 🌐 Python | 📅 2026-10-05
 * [pyrsshub](https://pyrsshub.vercel.app/feeds) <sup>[1211](https://t.me/s/aboutrss/1211)</sup> [![Open-Source Software][oss icon]](https://github.com/hillerliao/RSSHub-python) ⭐ 191 | 🐛 10 | 🌐 Python | 📅 2026-10-20
 * [NebulaPicker](https://github.com/djsilva99/nebulapicker) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-09-14 [![Open-Source Software][oss icon]](https://github.com/djsilva99/nebulapicker) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-09-14
@@ -1034,10 +1042,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### webpage/html
 
-* [FreshRSS 1.20.0](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) ⭐ 16,447 | 🐛 686 | 🌐 PHP | 📅 2026-10-26 <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software][oss icon]](https://github.com/FreshRSS/FreshRSS/) ⭐ 16,447 | 🐛 686 | 🌐 PHP | 📅 2026-10-26
-* [RSS Please](https://www.wezm.net/v2/posts/2022/generate-rss-from-webpage/) <sup>[1249](https://t.me/s/aboutrss/1249)</sup> [![Open-Source Software][oss icon]](https://github.com/wezm/rsspls) ⭐ 413 | 🐛 8 | 🌐 Rust | 📅 2026-07-28
+* [FreshRSS 1.20.0](https://github.com/FreshRSS/FreshRSS/releases/tag/1.20.0) ⭐ 16,460 | 🐛 685 | 🌐 PHP | 📅 2026-10-30 <sup>[1256](https://t.me/s/aboutrss/1256)</sup> [![Open-Source Software][oss icon]](https://github.com/FreshRSS/FreshRSS/) ⭐ 16,460 | 🐛 685 | 🌐 PHP | 📅 2026-10-30
+* [RSS Please](https://www.wezm.net/v2/posts/2022/generate-rss-from-webpage/) <sup>[1249](https://t.me/s/aboutrss/1249)</sup> [![Open-Source Software][oss icon]](https://github.com/wezm/rsspls) ⭐ 415 | 🐛 8 | 🌐 Rust | 📅 2026-07-28
 * [PolitePol](http://politepol.com/) [![Open-Source Software][oss icon]](https://github.com/taroved/pol) ⭐ 403 | 🐛 38 | 🌐 Less | 📅 2026-03-15 <sup>[556](https://t.me/s/aboutrss/556)</sup>
-* [HTML2RSS](https://html2rss.github.io) <sup>[795](https://t.me/s/aboutrss/795)</sup> [![Open-Source Software][oss icon]](https://github.com/gildesmarais/html2rss) ⭐ 169 | 🐛 2 | 🌐 Ruby | 📅 2026-10-29
+* [HTML2RSS](https://html2rss.github.io) <sup>[795](https://t.me/s/aboutrss/795)</sup> [![Open-Source Software][oss icon]](https://github.com/gildesmarais/html2rss) ⭐ 169 | 🐛 2 | 🌐 Ruby | 📅 2026-10-30
 * [rsstodolist](https://rsstodolist.eu/) <sup>[905](https://t.me/s/aboutrss/905)</sup> [![Open-Source Software][oss icon]](https://github.com/paulgreg/rsstodolist-appengine) ⚠️ Archived![Freeware][freeware icon]
 * [WebRSS](http://www.webrss.com/) <sup>[110](https://t.me/s/aboutrss/110)</sup> ![Freeware][freeware icon]
 * [Feedity](https://feedity.com/) <sup>[110](https://t.me/s/aboutrss/110)</sup>
@@ -1074,7 +1082,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### newsletter/mail
 
-* [Kill the Newsletter!](https://www.kill-the-newsletter.com/) <sup>[425](https://t.me/s/aboutrss/425)</sup> [![Open-Source Software][oss icon]](https://github.com/leafac/www.kill-the-newsletter.com) ⭐ 3,116 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-28
+* [Kill the Newsletter!](https://www.kill-the-newsletter.com/) <sup>[425](https://t.me/s/aboutrss/425)</sup> [![Open-Source Software][oss icon]](https://github.com/leafac/www.kill-the-newsletter.com) ⭐ 3,118 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-28
 * [mail2rss](https://github.com/lengthmin/mail2rss) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2023-03-26 <sup>[517](https://t.me/s/aboutrss/517)</sup> [![Open-Source Software][oss icon]](https://github.com/lengthmin/mail2rss) ⭐ 73 | 🐛 2 | 🌐 JavaScript | 📅 2023-03-26
 * Reading Newsletters with RSS Reader <sup>[426](https://t.me/s/aboutrss/426)</sup>
 * [Notifier](https://notifier.in/) <sup>[545](https://t.me/s/aboutrss/545)</sup>
@@ -1120,8 +1128,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### GitHub
 
-* [GitHub Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/) <sup>[699](https://t.me/s/aboutrss/699)</sup> [![Open-Source Software][oss icon]](https://github.com/mshibanami/GitHubTrendingRSS) ⭐ 369 | 🐛 1 | 🌐 HTML | 📅 2026-10-29
-* [Banditore](https://bandito.re/) <sup>[629](https://t.me/s/aboutrss/629)</sup> : Gather new releases from your starred GitHub repositories and generate an Atom feed with them. [![Open-Source Software][oss icon]](https://github.com/j0k3r/banditore) ⭐ 143 | 🐛 7 | 🌐 PHP | 📅 2026-10-16
+* [GitHub Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/) <sup>[699](https://t.me/s/aboutrss/699)</sup> [![Open-Source Software][oss icon]](https://github.com/mshibanami/GitHubTrendingRSS) ⭐ 369 | 🐛 1 | 🌐 HTML | 📅 2026-10-30
+* [Banditore](https://bandito.re/) <sup>[629](https://t.me/s/aboutrss/629)</sup> : Gather new releases from your starred GitHub repositories and generate an Atom feed with them. [![Open-Source Software][oss icon]](https://github.com/j0k3r/banditore) ⭐ 143 | 🐛 7 | 🌐 PHP | 📅 2026-10-30
 * [gh-feed](http://gh-feed.imsun.net) <sup>[507](https://t.me/s/aboutrss/507)</sup> : Generate RSS feed from GitHub Issues [![Open-Source Software][oss icon]](https://github.com/imsun/gh-feed) ⭐ 63 | 🐛 2 | 🌐 JavaScript | 📅 2018-10-04
 * [Feed the Star](https://feed-the-star.herokuapp.com/) <sup>[626](https://t.me/s/aboutrss/626)</sup> : Feed you with someone's GitHub star [![Open-Source Software][oss icon]](https://github.com/geekdada/feed-the-star) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2022-01-09
 * [opml-gen](https://opml.bb8.fun/) <sup>[579](https://t.me/s/aboutrss/579)</sup> : Generate an OPML file for your starred repositories on GitHub [![Open-Source Software][oss icon]](https://git.captnemo.in/nemo/opml-gen)
@@ -1129,16 +1137,16 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### ProductHunt
 
-* [ProductHunt daily RSS feed](https://github.com/headllines/producthunt-daily-rss) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-29 <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software][oss icon]](https://github.com/headllines/producthunt-daily-rss) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-29
+* [ProductHunt daily RSS feed](https://github.com/headllines/producthunt-daily-rss) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-30 <sup>[918](https://t.me/s/aboutrss/918)</sup> [![Open-Source Software][oss icon]](https://github.com/headllines/producthunt-daily-rss) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-30
 
 #### Matters
 
-* [RSSHub Radar](https://diygod.me/rsshub-radar/)<sup> [455](https://t.me/s/aboutrss/455)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa)[![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,380 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-01
+* [RSSHub Radar](https://diygod.me/rsshub-radar/)<sup> [455](https://t.me/s/aboutrss/455)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa)[![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,383 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-01
 * [FetchRSS](http://fetchrss.com/) <sup>[427](https://t.me/s/aboutrss/427)</sup>
 
 #### Telegram
 
-* [tg-archive](https://github.com/knadh/tg-archive) ⭐ 1,172 | 🐛 31 | 🌐 Python | 📅 2026-03-01 [![Open-Source Software][oss icon]](https://github.com/knadh/tg-archive) ⭐ 1,172 | 🐛 31 | 🌐 Python | 📅 2026-03-01
+* [tg-archive](https://github.com/knadh/tg-archive) ⭐ 1,173 | 🐛 31 | 🌐 Python | 📅 2026-03-01 [![Open-Source Software][oss icon]](https://github.com/knadh/tg-archive) ⭐ 1,173 | 🐛 31 | 🌐 Python | 📅 2026-03-01
 * [TelegramRSS](https://tg.i-c-a.su/) <sup>[569](https://t.me/s/aboutrss/569)</sup> [![Open-Source Software][oss icon]](https://github.com/xtrime-ru/TelegramRSS) ⭐ 300 | 🐛 5 | 🌐 PHP | 📅 2026-10-29![Freeware][freeware icon]
 * [Channel2RSSBot](https://t.me/Channel2RSSBot) <sup>[420](https://t.me/s/aboutrss/420)</sup>
 * [Notifier](https://notifier.in/) <sup>[545](https://t.me/s/aboutrss/545)</sup>
@@ -1188,10 +1196,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### Annotation / Bookmarking
 
-* [Omnivore](https://omnivore.app/) <sup>[1368](https://t.me/s/aboutrss/1368)</sup> [![Open-Source Software][oss icon]](https://github.com/omnivore-app/omnivore) ⭐ 16,396 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-27
-* [wallabag](https://wallabag.org/en) <sup>[1057](https://t.me/s/aboutrss/1057)</sup> [![Open-Source Software][oss icon]](https://github.com/wallabag/wallabag) ⭐ 13,031 | 🐛 767 | 🌐 PHP | 📅 2026-10-29
-* [LinkAce](https://www.linkace.org/) [![Open-Source Software][oss icon]](https://github.com/Kovah/LinkAce/) ⭐ 3,350 | 🐛 54 | 🌐 PHP | 📅 2026-10-26
-* [Hypothesis](https://hypothes.is) <sup>[727](https://t.me/s/aboutrss/727)</sup> [![Open-Source Software][oss icon]](https://github.com/hypothesis/h) ⭐ 3,189 | 🐛 227 | 🌐 Python | 📅 2026-10-26
+* [Omnivore](https://omnivore.app/) <sup>[1368](https://t.me/s/aboutrss/1368)</sup> [![Open-Source Software][oss icon]](https://github.com/omnivore-app/omnivore) ⭐ 16,400 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-27
+* [wallabag](https://wallabag.org/en) <sup>[1057](https://t.me/s/aboutrss/1057)</sup> [![Open-Source Software][oss icon]](https://github.com/wallabag/wallabag) ⭐ 13,034 | 🐛 768 | 🌐 PHP | 📅 2026-10-30
+* [LinkAce](https://www.linkace.org/) [![Open-Source Software][oss icon]](https://github.com/Kovah/LinkAce/) ⭐ 3,351 | 🐛 54 | 🌐 PHP | 📅 2026-10-26
+* [Hypothesis](https://hypothes.is) <sup>[727](https://t.me/s/aboutrss/727)</sup> [![Open-Source Software][oss icon]](https://github.com/hypothesis/h) ⭐ 3,190 | 🐛 227 | 🌐 Python | 📅 2026-10-26
 * [Notado](https://notado.app/) <sup>[735](https://t.me/s/aboutrss/735)</sup>
 * [Pinboard](http://pinboard.in/) <sup>[737](https://t.me/s/aboutrss/737)</sup>
 * [Delicious](http://del.icio.us) <sup>[737](https://t.me/s/aboutrss/737)</sup>
@@ -1221,7 +1229,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### TikTok
 
-* [ProxiTok](https://proxitok.herokuapp.com/) <sup>[1218](https://t.me/s/aboutrss/1218)</sup> [![Open-Source Software][oss icon]](https://github.com/pablouser1/ProxiTok) ⭐ 2,151 | 🐛 51 | 🌐 PHP | 📅 2025-05-31![Freeware][freeware icon]
+* [ProxiTok](https://proxitok.herokuapp.com/) <sup>[1218](https://t.me/s/aboutrss/1218)</sup> [![Open-Source Software][oss icon]](https://github.com/pablouser1/ProxiTok) ⭐ 2,152 | 🐛 51 | 🌐 PHP | 📅 2025-05-31![Freeware][freeware icon]
 * [TikTok stream RSS generator](https://ttrss.mybluemix.net/) <sup>[1150](https://t.me/s/aboutrss/1150)</sup> ![Freeware][freeware icon]
 
 #### Mirror
@@ -1246,10 +1254,10 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### Wechat Subscription Accounts (微信公众号)
 
-* [Huginn](https://github.com/huginn/huginn) ⭐ 50,182 | 🐛 690 | 🌐 Ruby | 📅 2026-10-26 <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn) ⭐ 50,182 | 🐛 690 | 🌐 Ruby | 📅 2026-10-26
-* [RSSHub](https://docs.rsshub.app/new-media.html#wei-xin) <sup>[195](https://t.me/s/aboutrss/195), [953](https://t.me/s/aboutrss/953)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub) ⭐ 46,721 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-29
+* [Huginn](https://github.com/huginn/huginn) ⭐ 50,221 | 🐛 691 | 🌐 Ruby | 📅 2026-10-26 <sup>[195](https://t.me/s/aboutrss/195), [528](https://t.me/s/aboutrss/528)</sup> [![Open-Source Software][oss icon]](https://github.com/huginn/huginn) ⭐ 50,221 | 🐛 691 | 🌐 Ruby | 📅 2026-10-26
+* [RSSHub](https://docs.rsshub.app/new-media.html#wei-xin) <sup>[195](https://t.me/s/aboutrss/195), [953](https://t.me/s/aboutrss/953)</sup> [![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub) ⭐ 46,735 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-30
 * [WeWe RSS](https://github.com/cooderl/wewe-rss/) ⚠️ Archived <sup>[1423](https://t.me/s/aboutrss/1423)</sup>
-* [Liuli](https://github.com/liuli-io/liuli) ⭐ 883 | 🐛 12 | 🌐 Python | 📅 2026-10-29 <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
+* [Liuli](https://github.com/liuli-io/liuli) ⭐ 883 | 🐛 12 | 🌐 Python | 📅 2026-10-30 <sup>[1167](https://t.me/s/aboutrss/1167)</sup>
 * [瓦斯阅读](https://qnmlgb.tech/) <sup>[349](https://t.me/s/aboutrss/349)</sup> [![Open-Source Software][oss icon]](https://github.com/tenpiece/wxrss) ⭐ 294 | 🐛 6 | 📅 2021-01-06
 * [瞅啥](http://www.gzhshoulu.wang/) <sup>[131](https://t.me/s/aboutrss/131)</sup>
 * [WeRSS](https://werss.app/) <sup>[133](https://t.me/s/aboutrss/133), [195](https://t.me/s/aboutrss/195)</sup>
@@ -1268,11 +1276,11 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### Zhihu (知乎)
 
-* [rss.lilydjwg.me](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz) ⭐ 446 | 🐛 0 | 🌐 Python | 📅 2026-06-08![Freeware][freeware icon]
+* [rss.lilydjwg.me](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz) ⭐ 447 | 🐛 0 | 🌐 Python | 📅 2026-06-08![Freeware][freeware icon]
 
 #### Comments of V2EX post
 
-* [rss.lilydjwg.me](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz) ⭐ 446 | 🐛 0 | 🌐 Python | 📅 2026-06-08![Freeware][freeware icon]
+* [rss.lilydjwg.me](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz) ⭐ 447 | 🐛 0 | 🌐 Python | 📅 2026-06-08![Freeware][freeware icon]
 
 #### Docsify
 
@@ -1290,8 +1298,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### RSS2KINDLE
 
-* [KOReader](http://koreader.rocks/) <sup>[1183](https://t.me/s/aboutrss/1183)</sup> [![Open-Source Software][oss icon]](https://github.com/koreader/koreader/tree/master/plugins/newsdownloader.koplugin) ⭐ 30,740 | 🐛 1,395 | 🌐 Lua | 📅 2026-10-29![Freeware][freeware icon]
-* [Kindle Ear](https://github.com/cdhigh/KindleEar) ⭐ 2,882 | 🐛 2 | 🌐 Python | 📅 2026-10-26 <sup>[13](https://t.me/s/aboutrss/13), [26](https://t.me/s/aboutrss/26), [247](https://t.me/s/aboutrss/247)</sup> [![Open-Source Software][oss icon]](https://github.com/cdhigh/KindleEar) ⭐ 2,882 | 🐛 2 | 🌐 Python | 📅 2026-10-26
+* [KOReader](http://koreader.rocks/) <sup>[1183](https://t.me/s/aboutrss/1183)</sup> [![Open-Source Software][oss icon]](https://github.com/koreader/koreader/tree/master/plugins/newsdownloader.koplugin) ⭐ 30,756 | 🐛 1,397 | 🌐 Lua | 📅 2026-10-30![Freeware][freeware icon]
+* [Kindle Ear](https://github.com/cdhigh/KindleEar) ⭐ 2,882 | 🐛 2 | 🌐 Python | 📅 2026-10-30 <sup>[13](https://t.me/s/aboutrss/13), [26](https://t.me/s/aboutrss/26), [247](https://t.me/s/aboutrss/247)</sup> [![Open-Source Software][oss icon]](https://github.com/cdhigh/KindleEar) ⭐ 2,882 | 🐛 2 | 🌐 Python | 📅 2026-10-30
 * [Platypush](https://platypush.readthedocs.io/en/latest/) <sup>[315](https://t.me/s/aboutrss/315)</sup> [![Open-Source Software][oss icon]](https://github.com/BlackLight/platypush) ⭐ 317 | 🐛 13 | 🌐 Python | 📅 2026-10-24
 * [RSStoKindle](https://www.rsstokindle.com/) [![Online][Online icon]](https://www.rsstokindle.com/)![Freeware][freeware icon]
 * [WhereMyLife](http://wheremylife.cn/) <sup>[26](https://t.me/s/aboutrss/26), [88](https://t.me/s/aboutrss/88), [284](https://t.me/s/aboutrss/284), [1056![Video][Video icon]](https://t.me/s/aboutrss/1056)</sup> ![Freeware][freeware icon]
@@ -1362,7 +1370,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### RSS2TelegramChannel
 
-* [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) ⭐ 2,173 | 🐛 64 | 🌐 Python | 📅 2026-10-26
+* [RSS to Telegram Bot](https://t.me/RSStT_Bot) <sup>[786](https://t.me/s/aboutrss/786), [1102](https://t.me/s/aboutrss/1102)</sup> [![Open-Source Software][oss icon]](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) ⭐ 2,172 | 🐛 63 | 🌐 Python | 📅 2026-10-30
 * [rss\_bot](https://t.me/rss_bot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 * [PosterBot](https://t.me/pstrbot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
 * [rssPubBot](https://t.me/rssPubBot) <sup>[705](https://t.me/s/aboutrss/705)</sup>
@@ -1375,7 +1383,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### RSS2SPEECH
 
-* [FeedMe](https://github.com/seazon/FeedMe/blob/master/README.md) ⭐ 352 | 🐛 65 | 📅 2026-10-25 <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+* [FeedMe](https://github.com/seazon/FeedMe/blob/master/README.md) ⭐ 352 | 🐛 62 | 📅 2026-10-30 <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 * [Feedly action for Google Assistant](https://blog.feedly.com/hey-google-talk-to-feedly/) <sup>[292](https://t.me/s/aboutrss/292)</sup>
 * [Narro](https://www.narro.co/rss-feeds) <sup>[412](https://t.me/s/aboutrss/412)</sup>
 * Plenary <sup>[516](https://t.me/s/aboutrss/516), [632](https://t.me/s/aboutrss/632)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.spians.plenary)
@@ -1392,7 +1400,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 #### For website
 
-* [Glance](https://github.com/glanceapp/glance) ⭐ 37,872 | 🐛 324 | 🌐 Go | 📅 2026-10-20 <sup>[1454](https://t.me/s/aboutrss/1454)</sup> [![Open-Source Software][oss icon]](https://github.com/glanceapp/glance) ⭐ 37,872 | 🐛 324 | 🌐 Go | 📅 2026-10-20
+* [Glance](https://github.com/glanceapp/glance) ⭐ 37,894 | 🐛 325 | 🌐 Go | 📅 2026-10-20 <sup>[1454](https://t.me/s/aboutrss/1454)</sup> [![Open-Source Software][oss icon]](https://github.com/glanceapp/glance) ⭐ 37,894 | 🐛 325 | 🌐 Go | 📅 2026-10-20
 * [MOONMOON](https://moonmoon.org/) <sup>[648](https://t.me/s/aboutrss/648)</sup> [![Open-Source Software][oss icon]](https://github.com/moonmoon/moonmoon) ⭐ 158 | 🐛 35 | 🌐 PHP | 📅 2023-04-19
 * [feedwind](https://feed.mikle.com/) <sup>[233](https://t.me/s/aboutrss/233)</sup>
 * [Feedzy RSS Feeds for WordPress](https://themeisle.com/plugins/feedzy-rss-feeds/) <sup>[239](https://t.me/s/aboutrss/239)</sup>
@@ -1430,8 +1438,8 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### RSS2ARCHIVE
 
-* [Karakeep](https://github.com/karakeep-app/karakeep) ⭐ 30,152 | 🐛 725 | 🌐 TypeScript | 📅 2026-10-29
-* [ArchiveBox](https://archivebox.io/) <sup>[560](https://t.me/s/aboutrss/560)</sup> [![Open-Source Software][oss icon]](https://github.com/pirate/ArchiveBox) ⭐ 28,899 | 🐛 159 | 🌐 Python | 📅 2026-10-29
+* [Karakeep](https://github.com/karakeep-app/karakeep) ⭐ 30,167 | 🐛 726 | 🌐 TypeScript | 📅 2026-10-30
+* [ArchiveBox](https://archivebox.io/) <sup>[560](https://t.me/s/aboutrss/560)</sup> [![Open-Source Software][oss icon]](https://github.com/pirate/ArchiveBox) ⭐ 28,907 | 🐛 158 | 🌐 Python | 📅 2026-10-30
 * [Django link archive](https://github.com/rumca-js/Django-link-archive) ⭐ 149 | 🐛 237 | 🌐 Python | 📅 2026-09-25
 * [RSS Librarian](https://www.rsslibrarian.ch/librarian.php) [![Open-Source Software][oss icon]](https://github.com/thefranke/rss-librarian) ⭐ 52 | 🐛 6 | 🌐 PHP | 📅 2026-09-08
 
@@ -1525,7 +1533,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### Full Article Extractors
 
-* [简悦](http://ksria.com/simpread/docs/#/RSSReader) <sup>[880](https://t.me/s/aboutrss/880)</sup> [![Open-Source Software][oss icon]](https://github.com/Kenshin/simpread/) ⭐ 8,744 | 🐛 2,151 | 🌐 JavaScript | 📅 2026-09-05
+* [简悦](http://ksria.com/simpread/docs/#/RSSReader) <sup>[880](https://t.me/s/aboutrss/880)</sup> [![Open-Source Software][oss icon]](https://github.com/Kenshin/simpread/) ⭐ 8,743 | 🐛 2,151 | 🌐 JavaScript | 📅 2026-09-05
 * [~~FeedOcean: Full Text RSS Feed~~](https://rss2full.feedocean.com/) <sup>[594](https://t.me/s/aboutrss/594)</sup> [![Open-Source Software][oss icon]](https://github.com/feedocean/rss2full) ⭐ 87 | 🐛 2 | 🌐 Go | 📅 2020-03-17
 * [fulltextrssplz](https://fulltextrssplz.whtsky.me/) <sup>[717](https://t.me/s/aboutrss/717)</sup> [![Open-Source Software][oss icon]](https://github.com/whtsky/fulltextrssplz) ⭐ 31 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-27
 * [Full-Text RSS](https://www.fivefilters.org/full-text-rss/) <sup>[245](https://t.me/s/aboutrss/245), [437](https://t.me/s/aboutrss/437)</sup>
@@ -1586,7 +1594,7 @@ Inspired by [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,849
 
 ### Obtain translated RSS feed
 
-* [RSS-Translation](https://tjsky.github.io/RSS-Translation/) <sup>[1324](https://t.me/s/aboutrss/1324)</sup> [![Open-Source Software][oss icon]](https://github.com/tjsky/Rss-Translation/) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-10-29
+* [RSS-Translation](https://tjsky.github.io/RSS-Translation/) <sup>[1324](https://t.me/s/aboutrss/1324)</sup> [![Open-Source Software][oss icon]](https://github.com/tjsky/Rss-Translation/) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-10-30
 * [a Google Script](https://www.labnol.org/internet/google-translate-rss-feeds/5110/) <sup>[712](https://t.me/s/aboutrss/712)</sup>
 * [by Using Javascript](https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/) <sup>[904](https://t.me/s/aboutrss/904)</sup>
 * [Use Google Sheet translate RSS item content](https://twitter.com/LorandBodo/status/1414887449189396510) <sup>[1070](https://t.me/s/aboutrss/1070)</sup>
@@ -1624,7 +1632,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 ### RSS Feed integrated with AI generated content
 
 * [RSS-GPT](https://github.com/yinan-c/RSS-GPT) ⭐ 355 | 🐛 4 | 🌐 Python | 📅 2025-09-08 <sup>[1367](https://t.me/s/aboutrss/1367)</sup> [![Open-Source Software][oss icon]](https://github.com/yinan-c/RSS-GPT) ⭐ 355 | 🐛 4 | 🌐 Python | 📅 2025-09-08![AI][AI icon]
-* [RSSPath](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI][AI icon]
+* [~~RSSPath~~](http://www.rsspath.com/) <sup>[1363](https://t.me/s/aboutrss/1363)</sup> ![AI][AI icon]
 
 ### Generating Blog's statistics via RSS feed
 
@@ -1634,8 +1642,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ### RSS Feed Finding/Detection
 
-* [RSSHub Radar](https://diygod.me/rsshub-radar/) <sup>[47](https://t.me/s/aboutrss/47), [116](https://t.me/s/aboutrss/116)</sup> [![][Chrome icon]](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa)[![Firefox][Firefox icon]](https://addons.mozilla.org/zh-CN/firefox/addon/rsshub-radar/)[![Windows][Windows icon]](https://microsoftedge.microsoft.com/addons/detail/gangkeiaobmjcjokiofpkfpcobpbmnln)[![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,380 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-01
-* [RSSBud](https://github.com/Cay-Zhang/RSSBud) ⭐ 1,540 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-29 <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS][iPhone icon]](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software][oss icon]](https://github.com/Cay-Zhang/RSSBud) ⭐ 1,540 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-29
+* [RSSHub Radar](https://diygod.me/rsshub-radar/) <sup>[47](https://t.me/s/aboutrss/47), [116](https://t.me/s/aboutrss/116)</sup> [![][Chrome icon]](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa)[![Firefox][Firefox icon]](https://addons.mozilla.org/zh-CN/firefox/addon/rsshub-radar/)[![Windows][Windows icon]](https://microsoftedge.microsoft.com/addons/detail/gangkeiaobmjcjokiofpkfpcobpbmnln)[![Open-Source Software][oss icon]](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,383 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-01
+* [RSSBud](https://github.com/Cay-Zhang/RSSBud) ⭐ 1,541 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-29 <sup>[816](https://t.me/s/aboutrss/816), [910](https://t.me/s/aboutrss/910), [1064](https://t.me/s/aboutrss/1064), [1356](https://t.me/s/aboutrss/1356)</sup> : iOS-version RSSHub Radar [![iOS][iPhone icon]](https://apps.apple.com/us/app/rssbud/id1531443645)[![Open-Source Software][oss icon]](https://github.com/Cay-Zhang/RSSBud) ⭐ 1,541 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-29
 * [RSSAid](https://github.com/lt94/RSSAid/) ⭐ 1,352 | 🐛 1 | 🌐 Dart | 📅 2026-08-28 <sup>[911](https://t.me/s/aboutrss/911), [1475](https://t.me/s/aboutrss/1475)</sup> : Android-version RSSHub Radar [![Android][Android icon]](https://github.com/lt94/RSSAid/releases) ⭐ 1,352 | 🐛 1 | 🌐 Dart | 📅 2026-08-28[![Open-Source Software][oss icon]](https://github.com/lt94/RSSAid/) ⭐ 1,352 | 🐛 1 | 🌐 Dart | 📅 2026-08-28![Freeware][freeware icon]
 * [Easy to RSS](https://idealclover.top/projects.html) [![][Chrome icon]](https://chrome.google.com/webstore/detail/easy-to-rss/hbcmpkcpbnecinpngdnfbnknfkdpdfli)[![Firefox][Firefox icon]](https://addons.mozilla.org/zh-CN/firefox/addon/easy-to-rss/)[![Open-Source Software][oss icon]](https://github.com/idealclover/easy-to-rss) ⭐ 456 | 🐛 14 | 🌐 JavaScript | 📅 2022-02-11
 * [Get RSS Feed URL](https://github.com/shevabam/get-rss-feed-url-extension) ⭐ 300 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-25 [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn)[![Open-Source Software][oss icon]](https://github.com/shevabam/get-rss-feed-url-extension) ⭐ 300 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-25![Freeware][freeware icon]
@@ -1656,6 +1664,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 * [RSS+Atom Feed Subscribe Button Generator](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator) ![Freeware][freeware icon][![Greasemonkey][Greasemonkey icon]](https://greasyfork.org/scripts/6261-rss-atom-feed-subscribe-button-generator)
 * [FeedReader App](https://feedreader.xyz/) <sup>[1364](https://t.me/s/aboutrss/1364)</sup> ![Freeware][freeware icon]
 * [RSS feed ASAP](https://rssfeedasap.com/) <sup>[1373](https://t.me/s/aboutrss/1373)</sup> ![Freeware][freeware icon]
+* [IntelCue RSS Finder](https://www.intelcue.ai/tools/rss-finder): paste any site URL and get its RSS/Atom feed URLs, no signup ![Online][Online icon]![Freeware][freeware icon]
 
 ### Subscribing Button
 
@@ -1670,8 +1679,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ### Browser Booklet
 
-* [Subscribe ZhihuZhuanlan](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz) ⭐ 446 | 🐛 0 | 🌐 Python | 📅 2026-06-08
-* [Subscribe V2EX post comments](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz) ⭐ 446 | 🐛 0 | 🌐 Python | 📅 2026-06-08
+* [Subscribe ZhihuZhuanlan](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz) ⭐ 447 | 🐛 0 | 🌐 Python | 📅 2026-06-08
+* [Subscribe V2EX post comments](https://rss.lilydjwg.me/) [![Open-Source Software][oss icon]](https://github.com/lilydjwg/morerssplz) ⭐ 447 | 🐛 0 | 🌐 Python | 📅 2026-06-08
 * [RSS-to-Inoreader](https://tmr.js.org/p/dd73704/) <sup>[228](https://t.me/s/aboutrss/228)</sup> [![Open-Source Software][oss icon]](https://github.com/ttttmr/UserJS) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-27
 
 ### TOC Support
@@ -1681,7 +1690,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 ## 🧩 API
 
 * [Substats](https://api.spencerwoo.com/substats/) <sup>[452](https://t.me/s/aboutrss/452), [470](https://t.me/s/aboutrss/470)</sup> : Serverless Function to Count How Many People are Subscribed to You in Your Favorite Services [![Open-Source Software][oss icon]](https://github.com/spencerwooo/Substats) ⭐ 904 | 🐛 15 | 🌐 TypeScript | 📅 2025-01-22
-* [granary](https://granary.io/) <sup>[709](https://t.me/s/aboutrss/709)</sup> [![Open-Source Software][oss icon]](https://github.com/snarfed/granary/) ⭐ 516 | 🐛 35 | 🌐 Python | 📅 2026-10-29![Freeware][freeware icon]
+* [granary](https://granary.io/) <sup>[709](https://t.me/s/aboutrss/709)</sup> [![Open-Source Software][oss icon]](https://github.com/snarfed/granary/) ⭐ 516 | 🐛 35 | 🌐 Python | 📅 2026-10-30![Freeware][freeware icon]
 * [feedi](https://github.com/davidesantangelo/feedi) ⚠️ Archived <sup>[527](https://t.me/s/aboutrss/527)</sup> [![Open-Source Software][oss icon]](https://github.com/davidesantangelo/feedi) ⚠️ Archived
 * [Feedsearch](https://feedsearch.dev/) <sup>[310](https://t.me/s/aboutrss/310)</sup> [![Open-Source Software][oss icon]](https://github.com/DBeath/feedsearch-crawler) ⭐ 100 | 🐛 5 | 🌐 Python | 📅 2026-10-29![Freeware][freeware icon]
 * [SearQ](https://searq.org/): a RESTful API that simplifies the search for data from RSS feeds. <sup>[1308](https://t.me/s/aboutrss/1308)</sup> [![Open-Source Software][oss icon]](https://github.com/davidesantangelo/searq.org) ⭐ 96 | 🐛 0 | 🌐 Ruby | 📅 2024-01-15![Freeware][freeware icon]
@@ -1694,18 +1703,19 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 * [Thirdplace Discovery: Feed discovery HTML JSON API](https://discovery.thirdplace.no/) <sup>[1202](https://t.me/s/aboutrss/1202)</sup> [![Open-Source Software][oss icon]](https://git.sr.ht/~thirdplace)![Freeware][freeware icon]
 * [RSS2JSONFeed converter](https://rss2json.com) <sup>[226](https://t.me/s/aboutrss/226)</sup>
 * [RSS feed to JSON API](https://rss-to-json-serverless-api.vercel.app/) <sup>[1285](https://t.me/s/aboutrss/1285)</sup>
-* [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI][AI icon]
+* [RSS Emit](https://rssemit.com/): generates Atom and JSON Feed output from web pages, source lists, or a topic prompt, and can deliver new items as a newsletter, to chat, or to an HTTP endpoint ![AI][AI icon][![MCP][MCP icon]](https://rssemit.com/agents.html)
 
 ## 🏗️ Tools for parsing / decoding RSS
 
-* [SimplePie](https://simplepie.org/): A simple Atom/RSS parsing library for PHP <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software][oss icon]](https://github.com/simplepie/simplepie/) ⭐ 1,578 | 🐛 91 | 🌐 PHP | 📅 2026-10-29
-* [Crawler-Buddy](https://github.com/rumca-js/crawler-buddy) ⭐ 258 | 🐛 97 | 🌐 HTML | 📅 2026-10-22: A server that parses RSS links, and provides output as standardized JSON. Provides feeds for input links
+* [SimplePie](https://simplepie.org/): A simple Atom/RSS parsing library for PHP <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software][oss icon]](https://github.com/simplepie/simplepie/) ⭐ 1,578 | 🐛 88 | 🌐 PHP | 📅 2026-10-30
+* [Feedsmith](https://feedsmith.dev/): A fast JavaScript and TypeScript library for parsing and generating RSS, Atom, RDF, JSON Feed and OPML, with support for 30+ namespaces [![Open-Source Software][oss icon]](https://github.com/macieklamberski/feedsmith) ⭐ 634 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-29
+* [Crawler-Buddy](https://github.com/rumca-js/crawler-buddy) ⭐ 257 | 🐛 97 | 🌐 HTML | 📅 2026-10-22: A server that parses RSS links, and provides output as standardized JSON. Provides feeds for input links
 * [SyndiKit](https://github.com/brightdigit/SyndiKit) ⭐ 70 | 🐛 5 | 🌐 Swift | 📅 2026-10-21: Swift Package for Decoding RSS Feeds <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software][oss icon]](https://github.com/brightdigit/SyndiKit) ⭐ 70 | 🐛 5 | 🌐 Swift | 📅 2026-10-21
 * [RSS Gen](https://doc.rssgen.co/): A comprehensive Rust library for generating, parsing, serializing, and deserializing RSS feeds across various RSS versions <sup>[1483](https://t.me/s/aboutrss/1483)</sup> [![Open-Source Software][oss icon]](https://github.com/sebastienrousseau/rssgen) ⭐ 11 | 🐛 3 | 🌐 Rust | 📅 2026-10-26
 
 ## ⛓ OPML management
 
-* [opml-editor](https://opml.imadij.com/) <sup>[1467](https://t.me/s/aboutrss/1467)</sup> [![Open-Source Software][oss icon]](https://github.com/imdj/opml-editor) ⭐ 148 | 🐛 0 | 🌐 Svelte | 📅 2026-06-11
+* [opml-editor](https://opml.imadij.com/) <sup>[1467](https://t.me/s/aboutrss/1467)</sup> [![Open-Source Software][oss icon]](https://github.com/imdj/opml-editor) ⭐ 149 | 🐛 0 | 🌐 Svelte | 📅 2026-06-11
 * [Feed Curator](https://vincode.io/feed-curator/) <sup>[500](https://t.me/s/aboutrss/500)</sup> [![Mac][Mac icon]](https://itunes.apple.com/us/app/feed-curator/id1458647758)[![Open-Source Software][oss icon]](https://github.com/vincode-io/FeedCurator) ⭐ 29 | 🐛 2 | 🌐 Swift | 📅 2023-03-09![Freeware][freeware icon]
 * [RSS-OPML-to-Markdown](https://github.com/idealclover/RSS-OPML-to-Markdown) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2018-10-21 <sup>[542](https://t.me/s/aboutrss/542)</sup> [![Open-Source Software][oss icon]](https://github.com/idealclover/RSS-OPML-to-Markdown) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2018-10-21
   * [RSS-OPML-to-Markdown enhancement](https://github.com/AboutRSS/RSS-OPML-to-Markdown/) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2023-11-11 <sup>[1387](https://t.me/s/aboutrss/1387)</sup> [![Open-Source Software][oss icon]](https://github.com/AboutRSS/RSS-OPML-to-Markdown/) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2023-11-11
@@ -1726,7 +1736,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 ### Entertainment
 
 * [KOTOMI RSS](https://moe4sale.in/) <sup>[18](https://t.me/s/aboutrss/18)</sup> : Anime RSS 索引站，将你的搜索结果订阅为 RSS 源 [![Open-Source Software][oss icon]](https://github.com/greensea/rssindexer) ⭐ 141 | 🐛 1 | 🌐 PHP | 📅 2024-07-23
-* [Comics RSS](https://www.comicsrss.com/) <sup>[566](https://t.me/s/aboutrss/566)</sup> [![Open-Source Software][oss icon]](https://github.com/ArtskydJ/comicsrss.com) ⭐ 96 | 🐛 5 | 🌐 HTML | 📅 2026-10-29
+* [Comics RSS](https://www.comicsrss.com/) <sup>[566](https://t.me/s/aboutrss/566)</sup> [![Open-Source Software][oss icon]](https://github.com/ArtskydJ/comicsrss.com) ⭐ 96 | 🐛 5 | 🌐 HTML | 📅 2026-10-30
 * [MusicButler](https://www.musicbutler.io/) <sup>[187](https://t.me/s/aboutrss/187)</sup> : lets you know when your favorite musicians and bands have released new music.
 * [HK TV series feed for RSS Player](http://allenlow.com/blog/2019/09/22/%E6%B8%AF%E5%89%A7rss-player%E5%90%8E%E5%A4%87rss%E9%93%BE%E6%8E%A5%E5%88%86%E4%BA%AB/) <sup>[270](https://t.me/s/aboutrss/270)</sup>
 * [7 RSS Feeds for the Movies Addict](https://www.makeuseof.com/tag/4-rss-feeds-for-the-movies-addict/) <sup>[338](https://t.me/s/aboutrss/338)</sup>
@@ -1744,16 +1754,16 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ### Tech or IT
 
-* [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs/) ⭐ 38,834 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21 [![Open-Source Software][oss icon]](https://github.com/kilimchoi/engineering-blogs/) ⭐ 38,834 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
+* [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs/) ⭐ 38,838 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21 [![Open-Source Software][oss icon]](https://github.com/kilimchoi/engineering-blogs/) ⭐ 38,838 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
 * [favorite link](https://www.guanguans.cn/favorite-link/) <sup>[513](https://t.me/s/aboutrss/513)</sup> [![Open-Source Software][oss icon]](https://github.com/guanguans/favorite-link) ⭐ 3,360 | 🐛 1 | 🌐 PHP | 📅 2026-10-28
-* [Front-End RSS](https://front-end-rss.now.sh/) [![Open-Source Software][oss icon]](https://github.com/ChanceYu/front-end-rss) ⭐ 2,902 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29
+* [Front-End RSS](https://front-end-rss.now.sh/) [![Open-Source Software][oss icon]](https://github.com/ChanceYu/front-end-rss) ⭐ 2,902 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30
 * [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) ⭐ 1,979 | 🐛 2 | 🌐 Python | 📅 2026-09-07 <sup>[463](https://t.me/s/aboutrss/463)</sup>
-* [RSS-IT人](https://github.com/Gracker/Rss-IT) ⭐ 1,925 | 🐛 17 | 🌐 Python | 📅 2026-08-09 [![Open-Source Software][oss icon]](https://github.com/Gracker/Rss-IT) ⭐ 1,925 | 🐛 17 | 🌐 Python | 📅 2026-08-09
-* [Chinese Security RSS](https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md) ⭐ 1,859 | 🐛 0 | 📅 2026-03-30 <sup>[462](https://t.me/s/aboutrss/462)</sup>
+* [RSS-IT人](https://github.com/Gracker/Rss-IT) ⭐ 1,926 | 🐛 17 | 🌐 Python | 📅 2026-08-09 [![Open-Source Software][oss icon]](https://github.com/Gracker/Rss-IT) ⭐ 1,926 | 🐛 17 | 🌐 Python | 📅 2026-08-09
+* [Chinese Security RSS](https://github.com/zhengjim/Chinese-Security-RSS/blob/master/README.md) ⭐ 1,862 | 🐛 0 | 📅 2026-03-30 <sup>[462](https://t.me/s/aboutrss/462)</sup>
 * [A collection of over 900 RSS feeds for web developers, updated monthly](https://github.com/simevidas/web-dev-feeds) ⭐ 376 | 🐛 2 | 📅 2024-03-22 <sup>[929](https://t.me/s/aboutrss/929)</sup> [![Open-Source Software][oss icon]](https://github.com/simevidas/web-dev-feeds) ⭐ 376 | 🐛 2 | 📅 2024-03-22
 * [Awesome ML/AI RSS feed](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) ⭐ 301 | 🐛 4 | 📅 2021-12-12 <sup>[736](https://t.me/s/aboutrss/736)</sup> [![Open-Source Software][oss icon]](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) ⭐ 301 | 🐛 4 | 📅 2021-12-12
 * [ReadRUST](https://ReadRust.net) <sup>[620](https://t.me/s/aboutrss/620)</sup> : supports JSON feed [![Open-Source Software][oss icon]](https://github.com/wezm/read-rust) ⚠️ Archived
-* [f43.me](https://f43.me/) <sup>[590](https://t.me/s/aboutrss/590)</sup> [![Open-Source Software][oss icon]](https://github.com/j0k3r/f43.me) ⭐ 70 | 🐛 6 | 🌐 PHP | 📅 2026-10-19
+* [f43.me](https://f43.me/) <sup>[590](https://t.me/s/aboutrss/590)</sup> [![Open-Source Software][oss icon]](https://github.com/j0k3r/f43.me) ⭐ 70 | 🐛 6 | 🌐 PHP | 📅 2026-10-30
 * [Awesome-techCN-feeds](https://github.com/RSS-Renaissance/awesome-techCN-feeds) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2018-08-28
 * [RSS Kubernetes](https://t.me/rss_kubernetes) <sup>[401](https://t.me/s/aboutrss/401)</sup>
 * [软件开发相关RSS源推荐](https://blog.liyaodong.com/posts/rss-list-for-software-development/) <sup>[557](https://t.me/s/aboutrss/557)</sup>
@@ -1777,8 +1787,8 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ### Multi-subject
 
-* [Awesome RSS Feeds](https://github.com/spians/awesome-rss-feeds) ⭐ 2,859 | 🐛 21 | 🌐 Shell | 📅 2026-10-05 <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software][oss icon]](https://github.com/spians/awesome-rss-feeds) ⭐ 2,859 | 🐛 21 | 🌐 Shell | 📅 2026-10-05
-* [Awesome RSSHub Routes](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 920 | 🐛 1 | 🌐 HTML | 📅 2026-10-26 [![Open-Source Software][oss icon]](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 920 | 🐛 1 | 🌐 HTML | 📅 2026-10-26 ![Freeware][freeware icon]
+* [Awesome RSS Feeds](https://github.com/spians/awesome-rss-feeds) ⭐ 2,862 | 🐛 21 | 🌐 Shell | 📅 2026-10-05 <sup>[1073](https://t.me/s/aboutrss/1073)</sup> [![Open-Source Software][oss icon]](https://github.com/spians/awesome-rss-feeds) ⭐ 2,862 | 🐛 21 | 🌐 Shell | 📅 2026-10-05
+* [Awesome RSSHub Routes](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 919 | 🐛 1 | 🌐 HTML | 📅 2026-10-26 [![Open-Source Software][oss icon]](https://github.com/JackyST0/awesome-rsshub-routes) ⭐ 919 | 🐛 1 | 🌐 HTML | 📅 2026-10-26 ![Freeware][freeware icon]
 * [Feed Compass](https://vincode.io/feed-compass/) <sup>[500](https://t.me/s/aboutrss/500)</sup> [![Mac][Mac icon]](https://itunes.apple.com/us/app/feed-compass/id1458648487)[![Open-Source Software][oss icon]](https://github.com/vincode-io/FeedCompass) ⭐ 104 | 🐛 4 | 🌐 Swift | 📅 2023-03-09![Freeware][freeware icon]
 * [OPML of D介子](https://github.com/JoJo720/JoJo720/blob/master/assets/rss/D介子.opml) ⭐ 0 | 🐛 0 | 📅 2021-06-12 <sup>[801](https://t.me/s/aboutrss/801)</sup>
 * ~~[Feed43 Feeds List](https://github.com/AboutRSS/ALL-about-RSS/blob/master/Feed43-Feeds-List.md) <sup>[t1](https://twitter.com/aboutRSS/status/1237224150634082305)</sup> : a **subproject** of 「ALL about RSS」.~~
@@ -1803,7 +1813,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ### Aggregators of Indieblogs
 
-* [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) ⭐ 24,338 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-29 <sup>[301](https://t.me/s/aboutrss/301), [417](https://t.me/s/aboutrss/417)</sup>
+* [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) ⭐ 24,347 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-30 <sup>[301](https://t.me/s/aboutrss/301), [417](https://t.me/s/aboutrss/417)</sup>
 * [Awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds) ⭐ 587 | 🐛 8 | 🌐 Python | 📅 2025-02-23
 * [Blog of the .Day](https://blogofthe.day/) <sup>[1458](https://t.me/s/aboutrss/1458)</sup> [![Open-Source Software][oss icon]](https://github.com/artlung/blogofthe.day) ⭐ 29 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-30
 * [RSSBlog](https://rssblog.cn/) <sup>[1079](https://t.me/s/aboutrss/1079)</sup> [![Open-Source Software][oss icon]](https://github.com/caibingcheng/rssblog) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-08-25
@@ -1823,11 +1833,11 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 * [Find Blog 发现博客](https://t.me/s/findblog) <sup>[1227](https://t.me/s/aboutrss/1227)</sup>
 * [ooh! directory](https://ooh.directory/) <sup>[1296](https://t.me/s/aboutrss/1296)</sup>
 * [积薪](https://firewood.news/) <sup>[1331](https://t.me/s/aboutrss/1331)</sup>
-* [I ♥ RSS](https://iheartrss.com/): a member directory of RSS lovers, exportable as OPML
+* [I ♥ RSS](https://iheartrss.com/) <sup>[1536](https://t.me/s/aboutrss/1536)</sup>: a member directory of RSS lovers, exportable as OPML
 
 ## 🔨 Blog Generator that Support RSS
 
-* [microfeed](https://www.microfeed.org/) <sup>[1304](https://t.me/s/aboutrss/1304)</sup> [![Open-Source Software][oss icon]](https://github.com/microfeed/microfeed) ⭐ 4,126 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-07![Freeware][freeware icon]
+* [microfeed](https://www.microfeed.org/) <sup>[1304](https://t.me/s/aboutrss/1304)</sup> [![Open-Source Software][oss icon]](https://github.com/microfeed/microfeed) ⭐ 4,125 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-07![Freeware][freeware icon]
 * [Nobelium](https://github.com/craigary/nobelium) ⭐ 3,151 | 🐛 5 | 🌐 JavaScript | 📅 2025-06-07 <sup>[999](https://t.me/s/aboutrss/999)</sup>
 * [Peach Blog](https://github.com/LeetaoGoooo/peach-blog) ⭐ 57 | 🐛 8 | 🌐 Python | 📅 2023-03-14 <sup>[999](https://t.me/s/aboutrss/999)</sup>
 * [Ghost](https://ghost.org/) <sup>[999](https://t.me/s/aboutrss/999)</sup>
@@ -1854,9 +1864,9 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ## ⏬ Utilize RSS to automate downloading / Broadcatching
 
-* [Sonarr](https://sonarr.tv/) [![Open-Source Software][oss icon]](https://github.com/Sonarr/Sonarr) ⭐ 17,483 | 🐛 92 | 🌐 C# | 📅 2026-10-29
-* [Radarr](https://radarr.video/) [![Open-Source Software][oss icon]](https://github.com/Radarr/Radarr) ⭐ 14,673 | 🐛 750 | 🌐 C# | 📅 2026-10-29
-* [AniVu](https://github.com/SkyD666/AniVu) ⭐ 1,272 | 🐛 19 | 🌐 Kotlin | 📅 2026-10-29 <sup>[1484](https://t.me/s/aboutrss/1484)</sup> [![Open-Source Software][oss icon]](https://github.com/SkyD666/AniVu) ⭐ 1,272 | 🐛 19 | 🌐 Kotlin | 📅 2026-10-29[![Android][Android icon]](https://f-droid.org/packages/com.skyd.anivu)![Freeware][freeware icon]
+* [Sonarr](https://sonarr.tv/) [![Open-Source Software][oss icon]](https://github.com/Sonarr/Sonarr) ⭐ 17,496 | 🐛 84 | 🌐 C# | 📅 2026-10-30
+* [Radarr](https://radarr.video/) [![Open-Source Software][oss icon]](https://github.com/Radarr/Radarr) ⭐ 14,683 | 🐛 762 | 🌐 C# | 📅 2026-10-30
+* [AniVu](https://github.com/SkyD666/AniVu) ⭐ 1,275 | 🐛 19 | 🌐 Kotlin | 📅 2026-10-29 <sup>[1484](https://t.me/s/aboutrss/1484)</sup> [![Open-Source Software][oss icon]](https://github.com/SkyD666/AniVu) ⭐ 1,275 | 🐛 19 | 🌐 Kotlin | 📅 2026-10-29[![Android][Android icon]](https://f-droid.org/packages/com.skyd.anivu)![Freeware][freeware icon]
 * [waifu!d for aria2](https://github.com/pcmid/waifud) ⭐ 51 | 🐛 3 | 🌐 Go | 📅 2025-12-05 <sup>[276](https://t.me/s/aboutrss/276)</sup> : a downloader bot [![Open-Source Software][oss icon]](https://github.com/ttttmr/UserJS) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-27
 * [RSS & you-get](https://left.pink/archives/2712) <sup>[494](https://t.me/s/aboutrss/494)</sup> : 自动下载B站收藏视频至VPS
 * [FLEXGET](https://flexget.com/) <sup>[749](https://t.me/s/aboutrss/749)</sup>
@@ -2024,9 +2034,9 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ## Podcast apps that will work with your custom RSS link
 
-* [AntennaPod](https://antennapod.org/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)[![Open-Source Software][oss icon]](https://github.com/antennapod/AntennaPod) ⭐ 8,253 | 🐛 386 | 🌐 Java | 📅 2026-10-29![Freeware][freeware icon]
+* [AntennaPod](https://antennapod.org/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)[![Open-Source Software][oss icon]](https://github.com/antennapod/AntennaPod) ⭐ 8,253 | 🐛 388 | 🌐 Java | 📅 2026-10-29![Freeware][freeware icon]
 * [RSSANT 蚁阅](https://rss.anyant.com/) <sup>[326](https://t.me/s/aboutrss/326), [328](https://t.me/s/aboutrss/328), [498](https://t.me/s/aboutrss/498), [501](https://t.me/s/aboutrss/501), [849](https://t.me/s/aboutrss/849)</sup> ![Online][Online icon][![Open-Source Software][oss icon]](https://github.com/anyant/rssant) ⭐ 1,657 | 🐛 26 | 🌐 Python | 📅 2026-10-25![Freeware][freeware icon]
-* [FeedMe](https://github.com/seazon/FeedMe/blob/master/README.md) ⭐ 352 | 🐛 65 | 📅 2026-10-25 <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
+* [FeedMe](https://github.com/seazon/FeedMe/blob/master/README.md) ⭐ 352 | 🐛 62 | 📅 2026-10-30 <sup>[135](https://t.me/s/aboutrss/135), [136](https://t.me/s/aboutrss/136), [161](https://t.me/s/aboutrss/161), [331](https://t.me/s/aboutrss/331), [342](https://t.me/s/aboutrss/342)</sup> [![Android][Android icon]](https://play.google.com/store/apps/details?id=com.seazon.feedme)
 * [Podstation](https://podstation.github.io/) <sup>[899](https://t.me/s/aboutrss/899)</sup> [![Chrome][Chrome icon]](https://chrome.google.com/webstore/detail/podstation-podcast-player/bpcagekijmfcocgjlnnhpdogbplajjfn)[![Open-Source Software][oss icon]](https://github.com/podStation/podStation) ⭐ 159 | 🐛 168 | 🌐 JavaScript | 📅 2024-05-31![Freeware][freeware icon]
 * [Cosmicast](https://twitter.com/cosmicastapp) <sup>[564](https://t.me/s/aboutrss/564)</sup> [![iOS][iPhone icon]](https://apps.apple.com/gb/app/cosmicast/id1435195637)[![Open-Source Software][oss icon]](https://github.com/Tigorn/Cosmicast) ⭐ 8 | 🐛 0 | 🌐 Swift | 📅 2018-11-22
 * [irreader](http://irreader.fatecore.com/) <sup>[173](https://t.me/s/aboutrss/173)</sup> ![Windows][Windows icon]![Mac][Mac icon]![Freeware][freeware icon]
@@ -2059,7 +2069,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ## Aggregators of Podcasts / Podcast Navigation
 
-* [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) ⭐ 2,081 | 🐛 4 | 📅 2023-10-06
+* [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) ⭐ 2,082 | 🐛 4 | 📅 2023-10-06
 * [中文独立播客](https://typlog.com/podlist/) <sup>[130](https://t.me/s/aboutrss/130), [480](https://t.me/s/aboutrss/480)</sup>
 * [PodCast不完全收藏](https://www.douban.com/note/702906996/)
 * [播客 RSS Feed](https://getpodcast.xyz/) <sup>[480](https://t.me/s/aboutrss/480)</sup>
@@ -2099,7 +2109,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 
 ## Turn YouTube into Podcast
 
-* [Podsync](https://github.com/mxpv/podsync) ⭐ 1,977 | 🐛 43 | 🌐 Go | 📅 2026-10-26 <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software][oss icon]](https://github.com/mxpv/podsync) ⭐ 1,977 | 🐛 43 | 🌐 Go | 📅 2026-10-26
+* [Podsync](https://github.com/mxpv/podsync) ⭐ 1,977 | 🐛 43 | 🌐 Go | 📅 2026-10-30 <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software][oss icon]](https://github.com/mxpv/podsync) ⭐ 1,977 | 🐛 43 | 🌐 Go | 📅 2026-10-30
 * [YouCast](https://github.com/i3arnon/YouCast) ⭐ 265 | 🐛 31 | 🌐 C# | 📅 2024-03-15 <sup>[684](https://t.me/s/aboutrss/684)</sup> [![Open-Source Software][oss icon]](https://github.com/i3arnon/YouCast) ⭐ 265 | 🐛 31 | 🌐 C# | 📅 2024-03-15![Freeware][freeware icon]
 * [RSSYes](https://rssyes.com/youtube-to-podcast) : Convert YouTube channels into podcast RSS feeds ![Freeware][freeware icon]
 * [PodNoms](https://www.podnoms.com/) <sup>[671](https://t.me/s/aboutrss/671)</sup> : Youtube2PodcastFeed ![Freeware][freeware icon]
@@ -2194,7 +2204,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full criteria.
 
 ## 💖 Acknowledgement
 
-* [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers) ⭐ 331,819 | 🐛 0 | 📅 2026-10-29
+* [Feed Readers @ Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers) ⭐ 332,145 | 🐛 0 | 📅 2026-10-29
 * [BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) ⭐ 2,092 | 🐛 25 | 🌐 CSS | 📅 2026-09-26: Turn your Telegram Channel to a MicroBlog
 * [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner\&style=social)](https://twitter.com/davewiner), [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus\&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid\&style=social)](https://twitter.com/crid), [![Twitter Follow](https://img.shields.io/twitter/follow/liangwenhao3?label=%40liangwenhao3\&style=social)](https://twitter.com/liangwenhao3) and others who are also focusing on RSS ecosystem.
 * [The Top 125 RSS Open Source Projects](https://awesomeopensource.com/projects/rss)
@@ -2282,4 +2292,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
